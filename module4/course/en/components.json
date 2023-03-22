@@ -1,0 +1,2246 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why interoperability is important?",
+    "displayTitle": "Why interoperability is important?",
+    "body": "<p>Data interoperability is important because it enables different systems, applications, and devices to exchange data with each other seamlessly, accurately, and efficiently. Interoperability allows data to be easily accessed, shared, and reused by different entities, such as organizations, individuals, digital twins and other machines.</p>",
+    "_id": "6409f39cb38aaf6b93dd7fbb",
+    "_parentId": "6409f39ab38aaf6b93dd7faa",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for Data interoperability ",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6409f39cb38aaf6b93dd7fbc",
+    "_parentId": "6409f39ab38aaf6b93dd7faa",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/66d66970f6aaf5cd735c1a05f9a1bd4c9f0f13c7.jpg",
+      "small": "course/en/assets/66d66970f6aaf5cd735c1a05f9a1bd4c9f0f13c7.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/OKOO\" target=\"_blank\">Nastya Dulhiier</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for boost",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6409f39cb38aaf6b93dd7fbe",
+    "_parentId": "6409f39ab38aaf6b93dd7fab",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/11b214341d971a3ec2570034738919a14300c3b2.jpg",
+      "small": "course/en/assets/11b214341d971a3ec2570034738919a14300c3b2.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/UXbv-EOCAYc\" target=\"_blank\">Haithem Ferdi</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for Legal interoperability",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6409f39db38aaf6b93dd7fc8",
+    "_parentId": "6409f39bb38aaf6b93dd7fb0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/a386fcb064e1b807cacc89d936a9816ec01b61e8.jpg",
+      "small": "course/en/assets/a386fcb064e1b807cacc89d936a9816ec01b61e8.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/_Yc7OtfFn-0\" target=\"_blank\">RhondaK Native Florida Folk Artist</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Licensing interoperability matrix",
+    "displayTitle": "Licensing interoperability matrix",
+    "body": "<p>Licensing interoperability matrix</p><p>The image here shows the licence interoperability matrix for different licencing terms. While this shows the creative-commons suit of licences, the terms tend to recur in bespoke licences and other public licences.</p><p>In order the licences are:</p><p>1&amp;2 Public domain (CC0 and Unlicensed)</p><ol><li>Attribution only (cite the copyright holder)</li><li>Attribution share-alike (cite and share under same, similar terms)</li><li>Attribution non-commercial (cite and no commercial use)</li><li>Attribution no-derivatives (cite but no new works permitted)</li><li>Attribution, non-commercial, share-alike</li><li>Attribution, non-commercial, no-derivatives</li></ol>",
+    "_id": "6409f39db38aaf6b93dd7fc9",
+    "_parentId": "6409f39bb38aaf6b93dd7fb1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Licensing interoperability matrix",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6409f39db38aaf6b93dd7fca",
+    "_parentId": "6409f39bb38aaf6b93dd7fb1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d4182dd2cf38324434054077635a8636731000cd.png",
+      "small": "course/en/assets/d4182dd2cf38324434054077635a8636731000cd.png",
+      "attribution": "<a href=\"https://wiki.creativecommons.org\" target=\"_blank\">wiki</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Technical interoperability",
+    "displayTitle": "Technical interoperability",
+    "body": "<p>Technical interoperability refers to the formats and communication mechanism by which data is made available and transferred.</p>",
+    "_id": "6409f39db38aaf6b93dd7fcb",
+    "_parentId": "6409f39bb38aaf6b93dd7fb2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "HTTP and REST: The web’s API",
+    "displayTitle": "HTTP and REST: The web’s API",
+    "body": "<p>One of the challenges on the web is that there are many more applications, and therefore more APIs, than spoken languages. Applying some standard design principals to the 'conversation' is essential to help everyone understand the API.</p><p>Much of the conversation on the web is based upon the HyperText Transfer Protocol (HTTP), the language of the web, but there are still many dialects, just like there are of single spoken languages.</p><p>REpresentational State Transfer (REST) is a way of communicating with machines, via an API, that was designed specifically for the web. It has a specific set of guidelines and rules that determines if an API is a RESTful API.</p><p>It includes rules on how identifiers should be used in conjunction with HTTP in order to locate, retrieve, update and otherwise work with data and other resources.</p><p>&nbsp;</p>",
+    "_id": "6409f39db38aaf6b93dd7fcd",
+    "_parentId": "6409f39bb38aaf6b93dd7fb3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for REST in practice",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6409f39db38aaf6b93dd7fce",
+    "_parentId": "6409f39bb38aaf6b93dd7fb3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/17991c3c75d9c83eb395b70df237262f3dda40f5.jpg",
+      "small": "course/en/assets/17991c3c75d9c83eb395b70df237262f3dda40f5.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/hXVVNB6Qctg\" target=\"_blank\">Compare Fibre</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "REST in practice ",
+    "displayTitle": "REST in practice ",
+    "body": "<p>The internet of things is full of devices that use RESTful APIs to allow them to be controlled. From thermostats to fridges, light switches and TVs, all internet connected devices are now highly likely to be running an API that allows their state to be read as well as allow control. Services like HomeKit, Google Home and Alexa all make use of these APIs to control devices, and for everything that isn’t natively supported, software like <a href=\"https://homebridge.io/\">homebridge</a> acts as the translator, ensuring that everything can talk to everything else.&nbsp;&nbsp;</p>",
+    "_id": "6409f39db38aaf6b93dd7fcf",
+    "_parentId": "6409f39bb38aaf6b93dd7fb4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for REST in practice",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6409f39db38aaf6b93dd7fd0",
+    "_parentId": "6409f39bb38aaf6b93dd7fb4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6978502fa902d38b7e540fd6a8469a1c10cb1308.jpg",
+      "small": "course/en/assets/6978502fa902d38b7e540fd6a8469a1c10cb1308.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/CWL6tTDN31w\" target=\"_blank\">Sincerely Media</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Semantic interoperability",
+    "displayTitle": "Semantic interoperability",
+    "body": "<p>So we have an open licence, an open communication protocol and are using open formats. That’s it right?</p><p>Unfortunately not.</p><p>There is still a need to actually look at the data itself to see if it can be understood. Does the structure of the data make any sense? Are the column titles meaningful? Are units of measurement clear?</p><p>In other works we need the data itself to adhere to a standard.</p>",
+    "_id": "6409f39eb38aaf6b93dd7fd1",
+    "_parentId": "6409f39bb38aaf6b93dd7fb5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Schemas in practice",
+    "displayTitle": "Schemas in practice",
+    "body": "<p>Below is an example schema for a dataset that pertains to data about a company. It defines the attribute name, data type as well as any validations rules.</p><p>Schemas will nearly always be defined in a machine readable format that allows for the automatic validation of the data. The one here is more human readable only.</p><p>Below is an example schema for a dataset that pertains to data about a company. It defines the attribute name, data type as well as any validations rules.</p><p>Schemas will nearly always be defined in a machine readable format that allows for the automatic validation of the data. The one here is more human readable only.</p><p>&nbsp;</p>\n\n<table class=\"c49\">\n        <tbody><tr class=\"c16\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c3\"><span class=\"c4\">Attribute</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c3\"><span class=\"c4\">Data types</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c3\"><span class=\"c4\">Validation rules</span></p>\n            </td>\n        </tr>\n        <tr class=\"c16\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c3\"><span class=\"c4\">Name</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Free text</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">None</span></p>\n            </td>\n        </tr>\n        <tr class=\"c16\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Description</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Free text</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">None</span></p>\n            </td>\n        </tr>\n        <tr class=\"c16\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Headquarters</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Free text</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">None</span></p>\n            </td>\n        </tr>\n        <tr class=\"c16\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Status</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Categorical</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">One of \"Active\", \"Inactive\"</span></p>\n            </td>\n        </tr>\n        <tr class=\"c34\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Years active</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Continuous integer</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Greater than 0</span></p>\n            </td>\n        </tr>\n        <tr class=\"c34\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Financial health</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Categorical</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">One of \"Very poor\", \"Poor\", \"OK\",\n                        \"Good\", \"Very good\" </span></p>\n            </td>\n        </tr>\n    </tbody></table>",
+    "_id": "6409f39eb38aaf6b93dd7fd3",
+    "_parentId": "6409f39bb38aaf6b93dd7fb6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data taxonomies and ontologies",
+    "displayTitle": "Data taxonomies and ontologies",
+    "body": "<p>Another important part of understanding data is the ability to understand the classification of things and the relationships between them. This is where taxonomies and ontologies help.</p><p>The best way to distinguish between the two is with examples. A taxonomy defines the hierarchical order of things, e.g. plant and animal classification systems. An ontology defines the relationships between things in different domains, e.g. Cows (animal) eat&nbsp;grass (plant).</p>",
+    "_id": "6409f39eb38aaf6b93dd7fd5",
+    "_parentId": "6409f39bb38aaf6b93dd7fb7",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for sorting taxonomies from ontologies",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6409f39eb38aaf6b93dd7fd6",
+    "_parentId": "6409f39bb38aaf6b93dd7fb7",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/29326b2adf551703562914ae066b3105ebbf7e8b.png",
+      "small": "course/en/assets/29326b2adf551703562914ae066b3105ebbf7e8b.png",
+      "attribution": "<a href=\"https://en.wikipedia.org/wiki/Semantic_Web_Stack#/media/File:Semantic_web_stack.svg\" target=\"_blank\">Marobi1</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for Can you work out the identifier?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6409f39eb38aaf6b93dd7fd8",
+    "_parentId": "6409f39cb38aaf6b93dd7fb8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/e549daeab94dece43f08d5354d15555d96a95152.jpg",
+      "small": "course/en/assets/e549daeab94dece43f08d5354d15555d96a95152.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/coding-computer-data-depth-of-field-577585/\" target=\"_blank\">Kevin Ku</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Format interoperability",
+    "displayTitle": "Format Interoperability",
+    "body": "<p>Having an API is one thing. But it is no use if the data it sends back is encoded in a format that is difficult for applications to read or requires some sort of proprietary licence. For example, while formats like CSV, XML, JSON are open and anyone can create an application that reads, modifies and otherwise works with them, proprietary formats like SAS7BDAT (SAS data format) require purchase of the SAS software and other applications are unable to open and otherwise work with them. Some formats like XSLX (Microsoft) and TSBX (tableau) are interesting as they are zip files that contain XML and other more open files in a structure that their related applications can open.</p><p>The key to data interoperability when it comes to formats is to offer many options. Via a HTTP API this can be achieved through the use of content-negotiation between the client and server.</p>",
+    "_id": "6409f5deb38aaf6b93dd7fdd",
+    "_parentId": "6409f5deb38aaf6b93dd7fdc",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for format Interoperability",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6409f5deb38aaf6b93dd7fde",
+    "_parentId": "6409f5deb38aaf6b93dd7fdc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/816f6fb36e19779df79a9a160c962ed11a3174c7.jpg",
+      "small": "course/en/assets/816f6fb36e19779df79a9a160c962ed11a3174c7.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/Y6tGu-OH8lA\" target=\"_blank\">Fabio Santaniello Bruun</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data interoperability encourages and boosts:",
+    "displayTitle": "Data interoperability encourages and boosts:",
+    "body": "<p>Overall, data interoperability is critical for unlocking the full potential of data, enabling it to flow easily between stakeholders in the connected digital twins ecosystem.</p><p>&nbsp;</p>",
+    "_id": "6409f964b38aaf6b93dd7fdf",
+    "_parentId": "6409f39ab38aaf6b93dd7fab",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the titles to find out why",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Collaboration",
+        "body": "<p>Interoperability enables different systems to work together, promoting collaboration among organizations, teams, and individuals. This can lead to improved efficiency, productivity, and innovation. This is particularly relevant in the digital twin’s landscape.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Transparency",
+        "body": "<p>Interoperability promotes transparency by allowing different systems to access and use the same data, which can help to ensure that all stakeholders have fair and equitable access to high quality, up-to-date data. This also helps boost trust in the data ecosystem and in each other’s data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Accuracy",
+        "body": "<p>Technical interoperability help ensure data is of high integrity at point of transfer. While semantic interoperability ensures that everyone has a shared understanding of the data, improving the perceive quality and trust in the data further.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Efficiency",
+        "body": "<p>Interoperability eliminates the need for manual data entry and data transfer between different systems, reducing the time and cost associated with data management</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data-informed decision-making",
+        "body": "<p>Interoperability enables data to be easily shared and analyzed, providing organizations with insights that can inform decision-making and help to drive business outcomes.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data interoperability",
+    "displayTitle": "Data interoperability",
+    "body": "<p dir=\"ltr\">To enable an ecosystem of connected digital twins within or across organisations, it is critical for data to be as interoperable as possible. This goes beyond simply using the same standard or set of column titles. In this module we explore the following:</p><ul><li dir=\"ltr\">Why interoperability is important?</li><li dir=\"ltr\">Legal interoperability</li><li dir=\"ltr\">Technical interoperability</li><li dir=\"ltr\">Semantic interoperability</li></ul>",
+    "_id": "6409fd46b38aaf6b93dd7fe2",
+    "_parentId": "6409fd45b38aaf6b93dd7fe1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "intro graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6409fd46b38aaf6b93dd7fe3",
+    "_parentId": "6409fd45b38aaf6b93dd7fe1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/c3a678cccf1b4bb02a7fb56a230ae73eff27cc85.png",
+      "small": "course/en/assets/c3a678cccf1b4bb02a7fb56a230ae73eff27cc85.png",
+      "attribution": "<a href=\"https://cp.catapult.org.uk/\" target=\"_blank\">Catapult</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>In order to build a shared data infrastructure, it is critical that data is as interoperable as possible.&nbsp;</p><p>The most important aspect is legal interoperability of all parts of the data and communication stack.&nbsp;</p><p>This means that we need more than just legal interoperability of the data itself. To make data truly interoperable requires technical and semantic interoperability.</p><p>Making use of open technologies and standards ensures that all parts of the system are open and data is as interoperable as possible.</p>",
+    "_id": "6409fec6b38aaf6b93dd7fe8",
+    "_parentId": "6409febfb38aaf6b93dd7fe7",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6409fecbb38aaf6b93dd7fe9",
+    "_parentId": "6409febfb38aaf6b93dd7fe7",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "small": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Legal interoperability",
+    "displayTitle": "Legal interoperability",
+    "body": "<p>You want to combine two datasets. One of them is shared with you under a non-commercial licence and the other is under a share-a-like licence (meaning you have to share copies or adaptations under the same or similar terms).</p><p>Can you combine these two datasets?</p>",
+    "_id": "640a000fb38aaf6b93dd7fea",
+    "_parentId": "6409f39bb38aaf6b93dd7fb0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Yes",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "No",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>Unfortunately the restrictive terms of the licences mean that the two datasets are not legally interoperable. The Share-a-like licence requires that the newly created work is released under that licence and can therefore be used commercially, the non-commercial licence does not allow that, therefore the two are in conflict.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that? </strong></p><p>Unfortunately the restrictive terms of the licences mean that the two datasets are not legally interoperable. The Share-a-like licence requires that the newly created work is released under that licence and can therefore be used commercially, the non-commercial licence does not allow that, therefore the two are in conflict.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open means interoperability",
+    "displayTitle": "Open means interoperability",
+    "body": "<p>Once again, when it comes to technical interoperability, open is the key; the communication mechanisms must be open, the formats must be open. Much like the licence matrix, this means you are free to integrate services together without further legal complications related to the communication mechanisms of formats.</p><p>A good example of this is the MATTER protocol for home automation and smart devices. Where previously there were three main ecosystems backed by Google, Amazon and Apple. The MATTER protocol, while proprietary, is a royalty-free specification that is bringing the benefits of a shared communication protocol and API to the smart home.</p>",
+    "_id": "640a039db38aaf6b93dd7fed",
+    "_parentId": "640a039cb38aaf6b93dd7fec",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for Open means interoperability",
+    "displayTitle": "",
+    "body": "",
+    "_id": "640a039db38aaf6b93dd7fee",
+    "_parentId": "640a039cb38aaf6b93dd7fec",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/f0faf891530f3e29b3b8372e4d630eb54f3094b0.jpg",
+      "small": "course/en/assets/f0faf891530f3e29b3b8372e4d630eb54f3094b0.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/LNwIJHUtED4\" target=\"_blank\">Viktor Forgacs</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for Sorting taxonomies from ontologies",
+    "displayTitle": "",
+    "body": "",
+    "_id": "640a06e3b38aaf6b93dd7ff2",
+    "_parentId": "640a06e3b38aaf6b93dd7ff0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/3e649d4c5cd3181ed15e89330d87eda98a5bd503.jpg",
+      "small": "course/en/assets/3e649d4c5cd3181ed15e89330d87eda98a5bd503.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/r2A6WYI8YIg\" target=\"_blank\">shawnanggg</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Sorting taxonomies from ontologies",
+    "displayTitle": "Sorting taxonomies from ontologies",
+    "body": "<p>Which of the following are examples of where a taxonomy is better suited and an ontology better suited?</p><ol start=\"1\"></ol>",
+    "_id": "640a0721b38aaf6b93dd7ff3",
+    "_parentId": "640a06e3b38aaf6b93dd7ff0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose an option from each dropdown list and select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "A catalogue of furniture",
+        "_options": [
+          {
+            "text": "Taxonomy",
+            "_isCorrect": true,
+            "_score": 0
+          },
+          {
+            "text": "Ontology",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "A list of products in a DIY store",
+        "_options": [
+          {
+            "text": "Taxonomy",
+            "_isCorrect": true,
+            "_score": 0
+          },
+          {
+            "text": "Ontology",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "The DIY tools required to build the furniture",
+        "_options": [
+          {
+            "text": "Taxonomy",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Ontology",
+            "_isCorrect": true,
+            "_score": 0
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>There are thousands of classifications systems (or taxonomies) in the world. One limitation of a taxonomy is that they are designed to be hierarchical and relationships flow in one direction, e.g. furniture-&gt;office furniture-&gt;desks. Ontologies allow complex bi-directional connections between concepts in many domains, allowing you to connect desks with the DIY Tools-&gt;Hardware-&gt;Screwdrivers that you need to build the desk.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>There are thousands of classifications systems (or taxonomies) in the world. One limitation of a taxonomy is that they are designed to be hierarchical and relationships flow in one direction, e.g. furniture-&gt;office furniture-&gt;desks. Ontologies allow complex bi-directional connections between concepts in many domains, allowing you to connect desks with the DIY Tools-&gt;Hardware-&gt;Screwdrivers that you need to build the desk.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for Sorting taxonomies from ontologies",
+    "displayTitle": "",
+    "body": "",
+    "_id": "640a0899b38aaf6b93dd7ff6",
+    "_parentId": "640a0899b38aaf6b93dd7ff5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/13cfedc44e8dcd7f00c1bdf6b9b3b0022be7fdad.png",
+      "small": "course/en/assets/13cfedc44e8dcd7f00c1bdf6b9b3b0022be7fdad.png",
+      "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifiers",
+    "displayTitle": "Identifiers",
+    "body": "<p>Identifiers&nbsp;are at the heart of how data can be effectively published, retrieved, reused and linked. They cover everything from postcodes and country codes to company numbers and ISBNs for books.&nbsp;</p><p>Open identifiers can be used by anyone. They help ensure that all data about the same thing can be easily found, linked and reused.</p><p>“Cool” identifiers, based upon good principles of API design, help to make the creation and prediction of identifiers easy and are even better when they are URI s that can be retrieved.</p>",
+    "_id": "640a0943b38aaf6b93dd7ff8",
+    "_parentId": "640a0899b38aaf6b93dd7ff5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Can you work out what the following identifiers refer to?",
+    "displayTitle": "Can you work out what the following identifiers refer to?",
+    "body": "",
+    "_id": "640a099ab38aaf6b93dd7ff9",
+    "_parentId": "6409f39cb38aaf6b93dd7fb8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose an option from each dropdown list and select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "http://id.southampton.ac.uk/building/32",
+        "_options": [
+          {
+            "text": "Building 32 at the University of Southampton",
+            "_isCorrect": true,
+            "_score": 0
+          },
+          {
+            "text": "The number of buildings at the University of Southampton",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "A web page about Building 32 at the University of Southampton",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "http://data.ordnancesurvey.co.uk/id/postcodeunit/SO171BJ ",
+        "_options": [
+          {
+            "text": "A postcode",
+            "_isCorrect": true,
+            "_score": 0
+          },
+          {
+            "text": "A web page with information about a postcode",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "A map of a postcode area",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>Both of these are web based identifiers of things, one being a physical building and the other an area of land. While these look like Uniform Resource Locators (URLs) that would resolve to a web page when used in a browser, they are in fact Uniform Resource Identifiers and support a whole host of requests that allow the exploration of a complex web of interconnected data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Both of these are web based identifiers of things, one being a physical building and the other an area of land. While these look like Uniform Resource Locators (URLs) that would resolve to a web page when used in a browser, they are in fact Uniform Resource Identifiers and support a whole host of requests that allow the exploration of a complex web of interconnected data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open means interoperability",
+    "displayTitle": "",
+    "body": "<p>There are many aspects to ensuring that data is interoperable. The most important one is legal interoperability of all parts of the system. This includes, not just the data itself, but the communication protocol, schema, taxonomy, ontologies and identifiers. All of these have associated intellectual property rights so it is essential to understand the role of openness in all areas.</p><p>You need open identifiers so people can use them to identify the same things in many systems/domains.</p><p>You need open ontologies so you can join things together across many systems/domains.</p><p>You need open taxonomies to define the hierarchical relationships between things consistently across systems/domains.</p><p>You need open schemas to allow people to structure and validate data consistently across systems/domains.</p><p>You need an open communication protocol that everyone can use to transfer data between systems/domains.</p><p>You need open data so that everyone is free to use the data that is communicated.</p>",
+    "_id": "640a0e09b38aaf6b93dd7ffc",
+    "_parentId": "640a0e09b38aaf6b93dd7ffb",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for Open means interoperability",
+    "displayTitle": "",
+    "body": "",
+    "_id": "640a0e09b38aaf6b93dd7ffd",
+    "_parentId": "640a0e09b38aaf6b93dd7ffb",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d9a96ee9e69782800d6afd4336688b2a0a5f62da.jpg",
+      "small": "course/en/assets/d9a96ee9e69782800d6afd4336688b2a0a5f62da.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/aigle_dore/2781302649\" target=\"_blank\">Moyan Brenn</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for Schema validation",
+    "displayTitle": "",
+    "body": "",
+    "_id": "640a0f96b38aaf6b93dd8001",
+    "_parentId": "640a0f95b38aaf6b93dd7fff",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/2cad1d81320559d315e4228c911e311714ac7278.png",
+      "small": "course/en/assets/2cad1d81320559d315e4228c911e311714ac7278.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute </a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Schema validation",
+    "displayTitle": "Schema validation",
+    "body": "<p>In what way does the following dataset not conform to the schema defined previously.</p>",
+    "_id": "640a1201b38aaf6b93dd8006",
+    "_parentId": "640a0f95b38aaf6b93dd7fff",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "The range for \"Years active\" is incorrect",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "There is an attribute missing",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Mismatch in values permitted for \"Financial health\"",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for Schema validation",
+    "displayTitle": "",
+    "body": "",
+    "_id": "640a13fbb38aaf6b93dd800a",
+    "_parentId": "640a13fab38aaf6b93dd8008",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/673d952fca38c60ad254fc9a263d53002aa28190.JPG",
+      "small": "course/en/assets/673d952fca38c60ad254fc9a263d53002aa28190.JPG",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data schemas",
+    "displayTitle": "Data schemas",
+    "body": "<p>Data standards can consist of many different parts. Perhaps the most widely used are data schemas.</p><p>A schema is a set of rules that describe the structure and contents of a data resource. These rules can be enforced by structuring how the data is captured, but more commonly the schema is defined in a separate document. In this way a schema can be used by a machine to validate data against the rules and catch common errors.</p><p>The schema will define a number of key things:</p>",
+    "_id": "640a147ab38aaf6b93dd800b",
+    "_parentId": "640a13fab38aaf6b93dd8008",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Column/Key titles in the data",
+        "body": "<p>Defining a consistent set of column titles (or keys) for a data set is essential to ensure that datasets of the same type can be merged and analysed easily.</p><p>Imagine several researchers collecting data about the same problem: They could easily choose different column headings for collecting data about the same thing. This causes a lot of problems when analysing data, especially since computers do not know the columns refer to the same thing.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Value types",
+        "body": "<p>Once the column title (or keys) are defined, it is important to define the valid data type for the values, e.g. number, text, date, co-ordinate etc.</p><p>This will help catch simple errors such as a value being entered in the wrong column.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Value constraints",
+        "body": "<p>Next we can define constraints about the data value itself such as: must exist (is 'required'), must be unique, must be in a certain unit (eg Gallons (UK)) or be within a certain range.</p><p>For example a column might be entitled \"Cost (£m)\"; thus we could require that any values should be numbers and without commas.</p><p>Setting a valid range helps avoid or explain any errors in the data. For example you could define a valid range of 0.001-100 on the \"Cost (£m)\" column (if it is known that cost cannot exceed £100m).</p><p>Range validation stops people accidentally misreading the column title/units and entering 100000000 instead of 100 for £100m.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "APIs and interoperability",
+    "displayTitle": "APIs and interoperability",
+    "body": "<p>Consistent availability of data is key to enabling reuse. Many services make use of Application Programming Interfaces (API) to communicate between systems. An API is essentially a “promise” by one system to predictably and consistently provide a service to another that allows the two to interact.</p><p>One analogous way of thinking of this is to think of spoken languages as an API. Each language has words and grammatical structures that form sentences through which information can be exchanged between people. However not everyone speaks the same language. To solve this problem sometimes you have to learn the new language or use a third party to translate.</p><p>The same is true of machines. We would like to ask machines to give us information and we would like them to respond with an answer that we can understand. &nbsp;This “conversation” is the (I)nterface with an (A)pplication that we interact with (P)rogramatically.</p><p>APIs for specific applications are usually documented and published on the application’s website. Much like a phrasebook documents a language and is made available for people to study.</p>",
+    "_id": "640a19d0b38aaf6b93dd8010",
+    "_parentId": "640a19d0b38aaf6b93dd800f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for APIs and interoperability",
+    "displayTitle": "",
+    "body": "",
+    "_id": "640a19d0b38aaf6b93dd8011",
+    "_parentId": "640a19d0b38aaf6b93dd800f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/61f092d5ce396334507a5d7675183d009eb1cc96.jpg",
+      "small": "course/en/assets/61f092d5ce396334507a5d7675183d009eb1cc96.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/ehyV_XOZ4iA\" target=\"_blank\">Douglas Lopes</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open means interoperability",
+    "displayTitle": "Open means interoperability",
+    "body": "<p>&nbsp;</p><p>Only the first four licences here are deemed as open, as they guarantee interoperability with all other licences in the set. Any other licences apply restrictions that mean legal interoperability is not assured.</p>",
+    "_id": "640a1cffb38aaf6b93dd8014",
+    "_parentId": "640a1cffb38aaf6b93dd8013",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for open means nteroperability",
+    "displayTitle": "",
+    "body": "",
+    "_id": "640a1d00b38aaf6b93dd8015",
+    "_parentId": "640a1cffb38aaf6b93dd8013",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/48c98b0ed533696dc0fd224debdf17ea135a1341.png",
+      "small": "course/en/assets/48c98b0ed533696dc0fd224debdf17ea135a1341.png",
+      "attribution": "<a href=\"https://wiki.creativecommons.org\" target=\"_blank\">wiki.creativecommons</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The web of linked data",
+    "displayTitle": "The web of linked data",
+    "body": "<p dir=\"ltr\">Data increases in value the more it is connected. Using URIs to identify things, providing a RESTful API that allows interaction with those things and making use of data standards, schemas and ontologies to define and link those things means that we can build a web of interconnected machine readable data, not just human readable web pages.</p><p dir=\"ltr\">The video below shows a demonstration of how we can browse a web of linked data using these technologies.</p>",
+    "_id": "64188e1ab38aaf6b93dd812d",
+    "_parentId": "6409f39cb38aaf6b93dd7fb9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/809820847",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  }
+]

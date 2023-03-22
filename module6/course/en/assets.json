@@ -1,0 +1,131 @@
+{
+  "8069d2a4618084e967165ac7f06b4750e01098da.png": {
+    "title": "Summary clipboard white",
+    "description": "Summary clipboard white",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "19bb513efae607af695cb3d10bb16e2a5b51c2ab.png": {
+    "title": "CC-BY White",
+    "description": "CC-BY White",
+    "source": "https://creativecommons.org/",
+    "licence": "CC0",
+    "attribution": "Creative Commons",
+    "tags": []
+  },
+  "d2bdbfbb07b24d7561e89b5ff069d5f6d6e39774.jpg": {
+    "title": "Sky scrapers",
+    "description": "Sky scrapers\n",
+    "source": "https://www.flickr.com/photos/kjarrett/10644544846",
+    "licence": "CC-BY",
+    "attribution": "Kevin Jarrett",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "608686bed0a9ce7fbf3a2cef"
+      },
+      {
+        "title": "Generic",
+        "_id": "608686bfd0a9ce7fbf3a2d0b"
+      },
+      {
+        "title": "Global",
+        "_id": "608686bed0a9ce7fbf3a2cf0"
+      },
+      {
+        "title": "money",
+        "_id": "609bcbd8d0a9ce7fbf3a38fb"
+      }
+    ]
+  },
+  "d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png": {
+    "title": "adapt.png",
+    "description": "Adapt logo used in content section of footer",
+    "source": "https://www.adaptlearning.org/",
+    "licence": "CC0",
+    "attribution": "Adapt e-learning",
+    "tags": []
+  },
+  "b46255d149de4ce358f32a2812df4c9b0658f1a8.png": {
+    "title": "odi-logo-white-small.png",
+    "description": "odi-logo-white-small.png",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": []
+  },
+  "1e6bc53029c4dfe51b3ef7bc387cfafcb4d8f969.png": {
+    "title": "standard chartered about",
+    "description": "standard chartered about image",
+    "source": "https://www.sc.com/en/",
+    "licence": "All rights reserved",
+    "attribution": "Standard Chartered",
+    "tags": []
+  },
+  "c3a678cccf1b4bb02a7fb56a230ae73eff27cc85.png": {
+    "title": "catapult logo.png",
+    "description": "Catapult logo",
+    "source": "https://cp.catapult.org.uk/",
+    "licence": "All rights reserved",
+    "attribution": "Catapult",
+    "tags": []
+  },
+  "848871b0788afcc83b2002c1bcfaf4f39efe0b1d.webp": {
+    "title": "CP catapult logo footer",
+    "description": "CP catapult logo footer graphic",
+    "source": "https://cp.catapult.org.uk/",
+    "licence": "All rights reserved",
+    "attribution": "Connected Places Catapult",
+    "tags": []
+  },
+  "0da187598e17098946deb340383cf97ff259ec0e.jpeg": {
+    "title": "doctor on laptop",
+    "description": "person sitting while using laptop computer and green stethoscope",
+    "source": "https://unsplash.com/photos/NFvdKIhxYlU",
+    "licence": "CC-BY",
+    "attribution": "National Cancer Institute",
+    "tags": []
+  },
+  "e8a98548b38f44b62ccf5051043b4e890db4c671.png": {
+    "title": "Catapult M6 - Ethics and personal data-who owns personal data.png",
+    "description": "Ethics and personal data-who owns personal data",
+    "source": "https://www.theodi.org/",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "f979602b4cb52fc8fc1ab41a27d6a2a8aa025fba.png": {
+    "title": "Catapult M6 - Ethics and personal data - knowing your rights.png",
+    "description": "Ethics and personal data - knowing your rights",
+    "source": "https://www.theodi.org/",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "a85fe55d5f72c2723a49bb8d38f2d5dcdaf4f711.png": {
+    "title": "M6 - Ethics and personal data.png",
+    "description": "Ethics and personal data",
+    "source": "https://www.theodi.org/",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "2471f2b2d7e4def119393c5834f328643ea46cfc.png": {
+    "title": "M6 - Ethics and personal data-Data protection and anonymised.png",
+    "description": "Ethics and personal data-Data protection and anonymised",
+    "source": "https://www.theodi.org/\r\n",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "6d5e20006ecebdeffc8157874edb53246050f39d.png": {
+    "title": "M6 - Ethics and personal data-Classifying personal and sensitive data.png",
+    "description": "Ethics and personal data - Classifying personal and sensitive data",
+    "source": "https://www.theodi.org/",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  }
+}
