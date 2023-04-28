@@ -1,7 +1,7 @@
 [
   {
-    "title": "Protecting the rights of individuals",
-    "displayTitle": "Protecting the rights of individuals",
+    "title": "Ethics and personal data",
+    "displayTitle": "Ethics and personal data",
     "body": "<p>Fears over collecting, using and sharing personal data often results in data not getting to those who need it.&nbsp;The challenge starts with understanding just what personal data is, the difference between this and <strong>sensitive commercial data</strong>, and the role of <strong>data protection regulations</strong>, which many see as a blocker to collecting, using and sharing personal data.&nbsp;</p><p>The aim of this module is to increase understanding of personal data and techniques that can be applied to ensure the rights of individuals are protected.</p>",
     "_classes": "",
     "subtitle": "",
@@ -41,11 +41,21 @@
     "_ODILicence": {
       "_items": []
     },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_boxMenu": {
       "_renderAsGroup": false

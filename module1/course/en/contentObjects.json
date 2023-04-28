@@ -1,7 +1,7 @@
 [
   {
-    "title": "Module 1 - Understanding to digital twins data landscape",
-    "displayTitle": "Module 1 - Understanding to digital twins data landscape",
+    "title": "The data landscape and connected digital twins",
+    "displayTitle": "The data landscape and connected digital twins",
     "body": "<p>Data is moving from being scarce and difficult to process to being abundant and easy to use.</p><p>However, to realise the full benefits that data can bring, businesses must understand the ‘data landscape’.</p><p>This module explores the data landscape at CP Catapult and how we are looking to unlock the full potential of data.</p>",
     "_classes": "",
     "subtitle": "",
@@ -38,14 +38,25 @@
       "SL_text": "",
       "_items": []
     },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_backButton": {
+      "_isEnabled": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_ODILicence": {
-      "_items": []
     },
     "_boxMenu": {
       "_renderAsGroup": false

@@ -101,18 +101,18 @@
       "_resources": {
         "resources": "Additional resources."
       },
+      "_xapi": {
+        "confirm": "OK",
+        "lrsConnectionErrorTitle": "LRS not available",
+        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
+      },
       "_pageLevelProgress": {
         "pageLevelProgress": "Page sections",
         "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
         "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional content",
-        "_navOrder": "0"
-      },
-      "_xapi": {
-        "confirm": "OK",
-        "lrsConnectionErrorTitle": "LRS not available",
-        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
+        "_navOrder": 0
       }
     },
     "_components": {
@@ -265,6 +265,9 @@
       },
       "_flowItems": {
         "ariaRegion": "This component is an flow items."
+      },
+      "_threeGLTF": {
+        "ariaRegion": ""
       }
     },
     "_menu": {
@@ -317,7 +320,7 @@
       "color-ten-inverted": "#ffffff"
     },
     "_items": {
-      "item-color": "#00b6ff",
+      "item-color": "#016a51",
       "item-color-inverted": "#ffffff",
       "item-color-hover": "",
       "item-color-inverted-hover": "",
@@ -346,7 +349,7 @@
       "progress-border": "#333333"
     },
     "_menu": {
-      "menu-item": "#00b6ff",
+      "menu-item": "#016a51",
       "menu-item-inverted": "#ffffff",
       "menu-item-border-color": "#00b6ff",
       "menu-item-progress": "#00b6ff",
@@ -446,19 +449,19 @@
         }
       },
       {
-        "title": "Adapt Learning",
-        "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "course/en/assets/d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png"
-        }
-      },
-      {
         "title": " Connected Places Catapult",
         "description": "<p><a href=\"https://cp.catapult.org.uk/\">The Connected Places Catapult</a> is the UK government's innovation agency for cities, transport and place leadership. It is one of several Catapult centres.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "course/en/assets/848871b0788afcc83b2002c1bcfaf4f39efe0b1d.webp"
+        }
+      },
+      {
+        "title": "Digital Twin Hub",
+        "description": "<p>Digital Twin Hub is&nbsp;collaborative web-enabled community for those who own, or who are developing, digital twins within the built environment.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/015fa88d738d97e847b53922b20759302fa5a59f.png"
         }
       }
     ]
@@ -535,16 +538,23 @@
     },
     "_resourcesItems": []
   },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60,
+    "_correctToPass": 60
+  },
+  "_homeButton": {
+    "_isEnabled": true,
+    "_hideHomeButton": false,
+    "_redirectToId": "",
+    "_customLink": "learning.digitaltwinhub.co.uk/",
+    "alt": "Home"
+  },
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
-  },
-  "_assessment": {
-    "_isPercentageBased": true,
-    "_scoreToPass": 60,
-    "_correctToPass": 60
   },
   "_boxMenu": {
     "_backgroundImage": {

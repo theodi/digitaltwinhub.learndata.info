@@ -30,7 +30,7 @@
       "_notify": "1"
     }
   },
-  "__v": 2,
+  "__v": 4,
   "_completionCriteria": {
     "_requireContentCompleted": false,
     "_requireAssessmentCompleted": true
@@ -53,31 +53,43 @@
   "_devtools": {
     "_isEnabled": false
   },
-  "_spoor": {
+  "_xapi": {
     "_isEnabled": true,
-    "_tracking": {
-      "_shouldStoreResponses": true,
-      "_shouldStoreAttempts": true,
-      "_shouldRecordInteractions": true,
-      "_shouldCompress": false
+    "_specification": "xAPI",
+    "_activityID": "https://testing.learndata.info/cp-personal-data-ethics",
+    "_cookiePrefix": "uk.co.digitaltwinhub",
+    "_endpoint": "",
+    "_user": "",
+    "_password": "",
+    "_lang": "en-US",
+    "_generateIds": false,
+    "_shouldTrackState": true,
+    "_shouldUseRegistration": false,
+    "_componentBlacklist": "blank,graphic",
+    "_coreEvents": {
+      "Adapt": {
+        "router:menu": false,
+        "router:page": false,
+        "questionView:recordInteraction": true,
+        "assessments:complete": true
+      },
+      "contentObjects": {
+        "change:_isComplete": false
+      },
+      "articles": {
+        "change:_isComplete": false
+      },
+      "blocks": {
+        "change:_isComplete": true
+      },
+      "components": {
+        "change:_isComplete": true
+      }
     },
-    "_reporting": {
-      "_onTrackingCriteriaMet": "passed",
-      "_onAssessmentFailure": "failed",
-      "_resetStatusOnLanguageChange": false
-    },
-    "_advancedSettings": {
-      "_showDebugWindow": false,
-      "_commitOnStatusChange": true,
-      "_commitOnAnyChange": false,
-      "_timedCommitFrequency": 10,
-      "_maxCommitRetries": 5,
-      "_commitRetryDelay": 2000,
-      "_suppressErrors": true,
-      "_commitOnVisibilityChangeHidden": true,
-      "_manifestIdentifier": "odi-def-1",
-      "_exitStateIfIncomplete": "auto",
-      "_exitStateIfComplete": "auto"
-    }
+    "_lrsFailureBehaviour": "show",
+    "_queryURL": ""
+  },
+  "_homeButton": {
+    "_isEnabled": false
   }
 }

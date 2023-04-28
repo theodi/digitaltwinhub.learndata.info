@@ -30,10 +30,10 @@
       "_notify": "1"
     }
   },
-  "__v": 3,
+  "__v": 6,
   "_completionCriteria": {
-    "_requireContentCompleted": true,
-    "_requireAssessmentCompleted": false
+    "_requireContentCompleted": false,
+    "_requireAssessmentCompleted": true
   },
   "_logging": {
     "_isEnabled": true,
@@ -53,17 +53,14 @@
   "_devtools": {
     "_isEnabled": false
   },
-  "_backButton": {
-    "_isEnabled": true
-  },
   "_xapi": {
     "_isEnabled": true,
     "_specification": "xAPI",
-    "_activityID": "https://testing.learndata.info/cp-cat-test",
+    "_activityID": "https://testing.learndata.info/cp-data-interoperability",
     "_cookiePrefix": "uk.co.digitaltwinhub",
-    "_endpoint": "https://theodi.learninglocker.net/data/xAPI",
-    "_user": "53ad75b3008049a939627492652929bb349d93ff",
-    "_password": "048a8d334e01353a8c9d6ac0133541ed0ad84b97",
+    "_endpoint": "",
+    "_user": "",
+    "_password": "",
     "_lang": "en-US",
     "_generateIds": false,
     "_shouldTrackState": true,

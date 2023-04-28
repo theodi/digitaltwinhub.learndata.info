@@ -20,14 +20,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_odi-generic": {
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -68,13 +68,13 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -115,13 +115,13 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -162,7 +162,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -209,13 +209,13 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -256,13 +256,13 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -302,14 +302,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -329,7 +329,7 @@
     }
   },
   {
-    "title": "New Block Title",
+    "title": "Decision flowchart",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -343,7 +343,37 @@
     "_ariaLevel": 0,
     "_id": "6408b85eb38aaf6b93dd7dd5",
     "_parentId": "6408b85eb38aaf6b93dd7dc5",
-    "_type": "block"
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
   },
   {
     "title": "The value of reusing data from third party sources",
@@ -367,13 +397,13 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -417,10 +447,10 @@
       "_quizBankID": 1
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -460,14 +490,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -508,13 +538,13 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -534,8 +564,8 @@
     }
   },
   {
-    "title": "Characteristics of data licences",
-    "displayTitle": "Characteristics of data licences",
+    "title": "CreDo – A bespoke licence",
+    "displayTitle": "CreDo – A bespoke licence",
     "body": "",
     "_classes": "",
     "_trackingId": 13,
@@ -554,14 +584,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -602,13 +632,13 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -652,10 +682,10 @@
       "_quizBankID": 1
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -699,10 +729,10 @@
       "_quizBankID": 1
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",

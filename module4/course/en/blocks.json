@@ -21,7 +21,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -47,7 +47,7 @@
     }
   },
   {
-    "title": "New Block Title",
+    "title": "Summary",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -62,12 +62,35 @@
     "_id": "6409febfb38aaf6b93dd7fe7",
     "_parentId": "6409febfb38aaf6b93dd7fe6",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -86,12 +109,35 @@
     "_id": "6409f39ab38aaf6b93dd7faa",
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -110,16 +156,39 @@
     "_id": "6409f39ab38aaf6b93dd7fab",
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
+      "_classes": "",
+      "_percentInviewVertical": 50
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
-    "title": "Legal interoperability[h]",
+    "title": "Legal interoperability",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -135,7 +204,7 @@
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -159,7 +228,7 @@
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -167,7 +236,7 @@
     }
   },
   {
-    "title": "Technical interoperability",
+    "title": "Open means interoperability",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -182,12 +251,35 @@
     "_id": "640a1cffb38aaf6b93dd8013",
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -212,7 +304,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -238,7 +330,7 @@
     }
   },
   {
-    "title": "Technical interoperability",
+    "title": "APIs and interoperability",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -253,12 +345,35 @@
     "_id": "640a19d0b38aaf6b93dd800f",
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -278,7 +393,7 @@
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -286,7 +401,7 @@
     }
   },
   {
-    "title": "Format interoperability",
+    "title": "REST in practice",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -301,12 +416,35 @@
     "_id": "6409f39bb38aaf6b93dd7fb4",
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -326,7 +464,7 @@
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -334,7 +472,7 @@
     }
   },
   {
-    "title": "Format interoperability",
+    "title": "Open means interoperability",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -349,12 +487,35 @@
     "_id": "640a039cb38aaf6b93dd7fec",
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -379,7 +540,54 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Data Schemas",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "640a13fab38aaf6b93dd8008",
+    "_parentId": "6409f39ab38aaf6b93dd7fa9",
+    "_type": "block",
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -409,30 +617,6 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 15,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "640a13fab38aaf6b93dd8008",
-    "_parentId": "6409f39ab38aaf6b93dd7fa9",
-    "_type": "block",
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Schemas in practice",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
     "_trackingId": 16,
     "instruction": "",
     "_isOptional": false,
@@ -445,7 +629,7 @@
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -453,7 +637,7 @@
     }
   },
   {
-    "title": "Schemas in practice",
+    "title": "Q: Schema validation",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -468,12 +652,35 @@
     "_id": "640a0f95b38aaf6b93dd7fff",
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -493,7 +700,7 @@
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -501,7 +708,7 @@
     }
   },
   {
-    "title": "Data taxonomies and ontologies",
+    "title": "Q: Sorting taxonomies from ontologies",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -516,16 +723,39 @@
     "_id": "640a06e3b38aaf6b93dd7ff0",
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
-    "title": "Data taxonomies and ontologies",
+    "title": "Identifiers",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -540,16 +770,39 @@
     "_id": "640a0899b38aaf6b93dd7ff5",
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
-    "title": "Identifiers",
+    "title": "Q: Identifiers",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -564,12 +817,35 @@
     "_id": "6409f39cb38aaf6b93dd7fb8",
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -589,7 +865,7 @@
     "_parentId": "6409f39ab38aaf6b93dd7fa9",
     "_type": "block",
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -618,7 +894,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {

@@ -71,7 +71,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -97,6 +97,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -126,8 +136,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -188,8 +208,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Click on the pins to find out more about each type of data",
@@ -201,6 +231,7 @@
     },
     "mobileBody": "",
     "mobileInstruction": "",
+    "_isMobileTextBelowImage": false,
     "_hidePagination": false,
     "_canCycleThroughPagination": false,
     "_isNarrativeOnMobile": true,
@@ -357,11 +388,22 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
+    "ariaQuestion": "",
     "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
@@ -371,6 +413,8 @@
     "_isRandom": false,
     "_questionWeight": 1,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
     "placeholder": "Please select an option",
     "_items": [
       {
@@ -517,8 +561,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -546,7 +600,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -573,8 +627,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -601,8 +665,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -766,7 +840,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Select two answers then click 'submit'",
@@ -905,11 +979,22 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Select your answer then click 'submit'",
+    "ariaQuestion": "",
     "_items": [
       {
         "text": "True",
@@ -929,6 +1014,7 @@
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
@@ -1039,8 +1125,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -1116,8 +1212,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -1193,8 +1299,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1231,7 +1347,8 @@
         "_classes": ""
       }
     ],
-    "_shouldCollapseItems": true
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   },
   {
     "_component": "graphic",
@@ -1294,7 +1411,7 @@
     "_disableAccessibilityState": false,
     "title": "A decision making flowchart for using data from third party sources",
     "displayTitle": "A decision making flowchart for using data from third party sources",
-    "body": "<p><a href=\"http://course/en/assets/1f9d45cbc9acc5d18c7d33dddcbecdbb4baebd0f.png\">Click to here view the image in a separate window</a></p>",
+    "body": "<p><a href=\"https://learning.digitaltwinhub.co.uk/module3/course/en/assets/1f9d45cbc9acc5d18c7d33dddcbecdbb4baebd0f.png\" target=\"_blank\">Click to here view the image in a separate window</a></p>",
     "_id": "6408b85eb38aaf6b93dd7def",
     "_parentId": "6408b85eb38aaf6b93dd7dd5",
     "_type": "component",
@@ -1315,7 +1432,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1418,8 +1535,8 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "CreDo – A bespoke licence",
-    "displayTitle": "CreDo – A bespoke licence",
-    "body": "<p dir=\"ltr\"><a href=\"https://digitaltwinhub.co.uk/credo/resources/legal/\">The CReDo Data Exploration Template</a> is a copy of the licence put in place between CReDo Data Providers (Licensors). The idea behind the license was to facilitate access to data between Anglian Water, UK Power Network, British Telecoms and research organisations for specific purposes under specific conditions.&nbsp;</p><p dir=\"ltr\">Development of the license took over 6 months and will need to be revisited as CReDo evolves and new parties enter. This timeframe demonstrates the potential timeframes (and costs) required, likely involving many iterations and legal reviews to ensure the terms suit everyone.&nbsp;</p><p dir=\"ltr\">This is partly why many organisations choose to adopt off the shelf licenses, where legal reviews have already been done, use and understanding of the terms is more widespread and in many cases. Other benefits of off-the-shelf licenses is many come with machine readable versions enabling the automatic enforcement of license conditions by machines in applications such as AI and machine learning systems.</p>",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\"><a target=\"_blank\" href=\"https://digitaltwinhub.co.uk/credo/resources/legal/\">The CReDo Data Exploration Template</a> is a copy of the licence put in place between CReDo Data Providers (Licensors). The idea behind the license was to facilitate access to data between Anglian Water, UK Power Network, British Telecoms and research organisations for specific purposes under specific conditions.&nbsp;</p><p dir=\"ltr\">Development of the licence took over 6 months and will need to be revisited as CReDo evolves and new parties enter. This timeframe demonstrates the potential timeframes (and costs) required, likely involving many iterations and legal reviews to ensure the terms suit everyone.&nbsp;</p><p dir=\"ltr\">This is partly why many organisations choose to adopt off the shelf licences, where legal reviews have already been done, use and understanding of the terms is more widespread and in many cases. Other benefits of off-the-shelf licences is many come with machine readable versions enabling the automatic enforcement of licence conditions by machines in applications such as AI and machine learning systems.</p>",
     "_id": "6408b8ffb38aaf6b93dd7e1b",
     "_parentId": "6408b8feb38aaf6b93dd7e17",
     "_type": "component",
@@ -1440,7 +1557,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""

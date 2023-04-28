@@ -41,9 +41,10 @@
     "_ODILicence": {
       "_items": []
     },
-    "_backButton": {
-      "_isEnabled": false,
-      "_hideBackButton": false,
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": true,
       "_redirectToId": ""
     },
     "_pageLevelProgress": {
@@ -51,12 +52,6 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_homeButton": {
-      "_isEnabled": false,
-      "_hideHomeButton": false,
-      "_hideBackButton": false,
-      "_redirectToId": ""
     },
     "_boxMenu": {
       "_renderAsGroup": false

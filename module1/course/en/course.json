@@ -1,6 +1,6 @@
 {
   "title": "CP - M1: The data landscape and connected digital twins ",
-  "displayTitle": "M1: The data landscape and connected digital twins ",
+  "displayTitle": "CP - M1: The data landscape and connected digital twins ",
   "body": "",
   "subtitle": "",
   "description": "",
@@ -46,7 +46,7 @@
       }
     ],
     "_force": true,
-    "_isMenuDisabled": true
+    "_isMenuDisabled": false
   },
   "_globals": {
     "_accessibility": {
@@ -76,8 +76,8 @@
     },
     "_extensions": {
       "_aboutPage": {
-        "linkText": "",
-        "titleText": "",
+        "linkText": "About",
+        "titleText": "About",
         "contactEMail": "",
         "contactLinkText": "",
         "aboutCredit": "",
@@ -98,6 +98,11 @@
       "_tutor": {
         "hideFeedback": "Hide feedback"
       },
+      "_xapi": {
+        "confirm": "OK",
+        "lrsConnectionErrorTitle": "LRS not available",
+        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
+      },
       "_pageLevelProgress": {
         "pageLevelProgress": "Page sections",
         "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
@@ -105,11 +110,6 @@
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional Content",
         "_navOrder": "0"
-      },
-      "_xapi": {
-        "confirm": "OK",
-        "lrsConnectionErrorTitle": "LRS not available",
-        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
       }
     },
     "_components": {
@@ -142,58 +142,11 @@
       "_lottieInteractivity": {
         "ariaRegion": ""
       },
-      "_text": {
-        "ariaRegion": ""
-      },
-      "_narrative": {
-        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative.",
-        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
-        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
-      },
-      "_graphic": {
-        "ariaRegion": "",
-        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
-      },
-      "_textinput": {
-        "ariaRegion": "Text input. Type your answer and then submit."
-      },
-      "_mcq": {
-        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
-      },
-      "_assessmentResults": {
-        "ariaRegion": "Assessment results."
-      },
-      "_slider": {
-        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswerRange": "The correct answer is any value from {{{bottom}}} to {{{top}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "labelStart": "Start of the scale",
-        "labelEnd": "End of the scale"
-      },
       "_chartjs": {
         "ariaRegion": "This is a charting component."
       },
-      "_moral-machine-gmcq": {
-        "ariaRegion": "Multiple choice question",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
-      },
       "_moralMachineResults": {
         "ariaRegion": "Assessment results."
-      },
-      "_gmcq": {
-        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below.",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
       },
       "_choose": {
         "ariaRegion": "Choose. Select options and then submit.",
@@ -202,9 +155,6 @@
       },
       "_dragndrop": {
         "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
-      },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
       },
       "_dropItems": {
         "ariaRegion": "Drop items",
@@ -222,6 +172,18 @@
       },
       "_sliderItems": {
         "ariaRegion": "This component is an slider items."
+      },
+      "_flex": {
+        "ariaRegion": "List of expandable sections. Select each button to expand the content."
+      },
+      "_flowItems": {
+        "ariaRegion": "This component is an flow items."
+      },
+      "_threeGLTF": {
+        "ariaRegion": ""
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
       },
       "_media": {
         "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
@@ -245,10 +207,38 @@
         "allyVolumeControlText": "Use Up/Down Arrow keys to increase or decrease volume.",
         "progessHelpText": "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
       },
-      "_matching": {
-        "ariaRegion": "Matching. Select from lists and then submit.",
-        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative.",
+        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
+      "_graphic": {
+        "ariaRegion": "",
+        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results.",
+        "retryText": "Retry"
+      },
+      "_mcq": {
+        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
       },
       "_hotgraphic": {
         "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
@@ -257,11 +247,25 @@
         "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}",
         "popupPagination": "{{itemNumber}} / {{totalItems}}"
       },
-      "_flex": {
-        "ariaRegion": "List of expandable sections. Select each button to expand the content."
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswerRange": "The correct answer is any value from {{{bottom}}} to {{{top}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
       },
-      "_flowItems": {
-        "ariaRegion": "This component is an flow items."
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit.",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      },
+      "_moral-machine-gmcq": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
       }
     },
     "_menu": {
@@ -357,10 +361,10 @@
     "_nav": {
       "nav": "#333333",
       "nav-inverted": "#ffffff",
-      "hide-nav": false,
+      "hide-nav": true,
       "nav-icon": "#ffffff",
       "nav-icon-inverted": "#ffffff",
-      "nav-icon-hover": "#ffffff",
+      "nav-icon-hover": "#016a51",
       "nav-icon-inverted-hover": "#ffffff",
       "navigation-logo": "",
       "nav-logo-height": "60px",
@@ -425,18 +429,15 @@
     }
   },
   "_FooterLink": {
-    "_items": []
+    "_items": [
+      {
+        "title": "Privacy policy",
+        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
+      }
+    ]
   },
   "_aboutPage": {
     "_items": [
-      {
-        "title": "The Connected Places Catapult",
-        "description": "<p><a href=\"https://cp.catapult.org.uk/\">The Connected Places Catapult</a> is the UK government's innovation agency for cities, transport and place leadership. It is one of several Catapult centres.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "course/en/assets/848871b0788afcc83b2002c1bcfaf4f39efe0b1d.webp"
-        }
-      },
       {
         "title": "The Open Data Institute",
         "description": "<p>Expert knowledge, content development and learning plans provided by the by&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>&nbsp;learning.</p>",
@@ -446,11 +447,19 @@
         }
       },
       {
-        "title": "Adapt Learning",
-        "description": "<p>Open source learning platform developed by&nbsp;<a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
+        "title": "The Connected Places Catapult",
+        "description": "<p><a href=\"https://cp.catapult.org.uk/\">The Connected Places Catapult</a> is the UK government's innovation agency for cities, transport and place leadership. It is one of several Catapult centres.</p>",
         "_graphic": {
           "alt": "",
-          "src": "course/en/assets/d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png"
+          "src": "course/en/assets/848871b0788afcc83b2002c1bcfaf4f39efe0b1d.webp"
+        }
+      },
+      {
+        "title": "Digital Twin Hub",
+        "description": "<p>Digital Twin Hub is a&nbsp;collaborative web-enabled community for those who own, or who are developing, digital twins within the built environment.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/015fa88d738d97e847b53922b20759302fa5a59f.png"
         }
       }
     ]
@@ -499,6 +508,11 @@
       }
     ]
   },
+  "_backButton": {
+    "_isEnabled": false,
+    "_hideBackButton": false,
+    "_redirectToId": ""
+  },
   "_tutor": {
     "_type": "notify",
     "_classes": "",
@@ -508,16 +522,23 @@
       "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
     }
   },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60,
+    "_correctToPass": 60
+  },
+  "_homeButton": {
+    "_isEnabled": true,
+    "_hideHomeButton": false,
+    "_redirectToId": "",
+    "_customLink": "learning.digitaltwinhub.co.uk/",
+    "alt": "Home"
+  },
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
-  },
-  "_assessment": {
-    "_isPercentageBased": true,
-    "_scoreToPass": 60,
-    "_correctToPass": 60
   },
   "_boxMenu": {
     "_backgroundImage": {
