@@ -282,11 +282,35 @@
     }
   },
   {
+    "title": "Synthetic data",
+    "displayTitle": "Synthetic data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6419cda8b38aaf6b93dd81f2",
+    "_parentId": "64197f3fb38aaf6b93dd8165",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
     "title": "Data protection and anonymised/synthetic data",
     "displayTitle": "Data protection and anonymised/synthetic data",
     "body": "",
     "_classes": "",
-    "_trackingId": 7,
+    "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -333,7 +357,7 @@
     "displayTitle": "Classifying personal and sensitive data",
     "body": "<p>See if you can classify the following types of data into <strong>personal</strong>, <strong>sensitive personal</strong>, <strong>sensitive commercial</strong> or <strong>neither personal or sensitive&nbsp;commercial</strong>.</p>",
     "_classes": "",
-    "_trackingId": 8,
+    "_trackingId": 9,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -380,7 +404,7 @@
     "displayTitle": "The role of data protection regulations",
     "body": "",
     "_classes": "",
-    "_trackingId": 9,
+    "_trackingId": 10,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -402,53 +426,6 @@
     },
     "_assessment": {
       "_quizBankID": 1
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Supporting tools and guides",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 10,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "64197f3fb38aaf6b93dd8171",
-    "_parentId": "64197f3fb38aaf6b93dd8165",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -517,11 +494,58 @@
     }
   },
   {
-    "title": "Establishing the lawful basis for processing personal data",
+    "title": "Supporting tools and guides",
     "displayTitle": "",
     "body": "",
     "_classes": "",
     "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64197f3fb38aaf6b93dd8171",
+    "_parentId": "64197f3fb38aaf6b93dd8165",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Establishing the lawful basis for processing personal data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -561,30 +585,6 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Synthetic data",
-    "displayTitle": "Synthetic data",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 13,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6419cda8b38aaf6b93dd81f2",
-    "_parentId": "64197f3fb38aaf6b93dd8165",
-    "_type": "block",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     }
   },
   {

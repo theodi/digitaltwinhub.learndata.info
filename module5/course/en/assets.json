@@ -104,14 +104,6 @@
     "attribution": "doteveryone",
     "tags": []
   },
-  "257a8479c513486055fc179e510d8c99a1c991a5.jpg": {
-    "title": "crossroads",
-    "description": "brown wooden cross on green grass field under white clouds during daytime",
-    "source": "https://unsplash.com/photos/L57L1mlKoM8",
-    "licence": "CC0",
-    "attribution": "Antonio Feregrino",
-    "tags": []
-  },
   "702ef9b3907c6f59ced137bae709e222c350841c.jpg": {
     "title": "blue wooden door",
     "description": "blue wooden door",
@@ -200,12 +192,12 @@
     "attribution": "digital twin hub logo",
     "tags": []
   },
-  "f84a850a449c810b812b4cf8f19f0651e4403223.png": {
-    "title": "Data Ethics tools",
-    "description": "Data Ethics tools",
-    "source": "theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "Open Data Institute",
+  "21f462d0e7156c4b24b4ee01d10d812e23ce5134.jpg": {
+    "title": "crossroads-small",
+    "description": "\r\nbrown wooden cross on green grass field under white clouds during daytime",
+    "source": "https://unsplash.com/photos/L57L1mlKoM8",
+    "licence": "CC0",
+    "attribution": "Antonio Feregrino",
     "tags": []
   },
   "e48e3b594a8c59544330712294d00c5b159746ca.jpg": {
@@ -222,6 +214,14 @@
     "source": "https://www.theodi.org/article/data-ethics-maturity-model-benchmarking-your-approach-to-data-ethics/",
     "licence": "All rights reserved",
     "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "028577248dd399867b16b1e5dbbd897a782f658d.png": {
+    "title": "Data Ethics tools",
+    "description": "Open Data Institute",
+    "source": "theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "theodi.org",
     "tags": []
   }
 }

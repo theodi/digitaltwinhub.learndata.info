@@ -262,8 +262,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/257a8479c513486055fc179e510d8c99a1c991a5.jpg",
-      "small": "course/en/assets/257a8479c513486055fc179e510d8c99a1c991a5.jpg",
+      "large": "course/en/assets/21f462d0e7156c4b24b4ee01d10d812e23ce5134.jpg",
+      "small": "course/en/assets/21f462d0e7156c4b24b4ee01d10d812e23ce5134.jpg",
       "attribution": "<a href=\"https://unsplash.com/photos/L57L1mlKoM8\" target=\"_blank\">Antonio Feregrino</a> <span class='assetLicence'>[CC0]</span>",
       "_url": "",
       "_target": null
@@ -2966,7 +2966,7 @@
     "_disableAccessibilityState": false,
     "title": "What is data ethics?",
     "displayTitle": "What is data ethics?",
-    "body": "<blockquote><p dir=\"ltr\" style=\"text-align:center\"><em>Data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact on people and society.</em></p><p dir=\"ltr\" style=\"text-align:center\"><em>Different practices include the collection, classification, storage, use, sharing and retention of data. All of which have different ethical considerations that affect people.</em></p></blockquote>",
+    "body": "<blockquote><p dir=\"ltr\" style=\"text-align:center\"><em>Data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact on people and society.</em></p><p dir=\"ltr\" style=\"text-align:center\"><em>Different practices include the collection, classification, storage, use, sharing and retention of data. All of which have different ethical considerations that affect people.</em></p></blockquote><p dir=\"ltr\" style=\"text-align: right;\"><strong>- Open Data Institute</strong></p>",
     "_id": "643e8c0cb38aaf6b93dd89d0",
     "_parentId": "643e8c06b38aaf6b93dd8967",
     "_type": "component",
@@ -3503,9 +3503,9 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/f84a850a449c810b812b4cf8f19f0651e4403223.png",
-      "small": "course/en/assets/f84a850a449c810b812b4cf8f19f0651e4403223.png",
-      "attribution": "<a href=\"theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>",
+      "large": "course/en/assets/028577248dd399867b16b1e5dbbd897a782f658d.png",
+      "small": "course/en/assets/028577248dd399867b16b1e5dbbd897a782f658d.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">theodi.org</a> <span class='assetLicence'>[CC-BY-SA]</span>",
       "_url": "",
       "_target": null
     },

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <tincan xmlns="http://projecttincan.com/tincan.xsd">
     <activities>
-        <activity id="https://testing.learndata.info/cp-personal-data-ethics" type="http://adlnet.gov/expapi/activities/course">
+        <activity id="https://learning.digitaltwinhub.co.uk/module6" type="http://adlnet.gov/expapi/activities/course">
             <name><![CDATA[CP - M6 - Ethics and personal data]]></name>
             <description lang="en-US"><![CDATA[]]></description>
             <launch lang="en-US">index.html</launch>

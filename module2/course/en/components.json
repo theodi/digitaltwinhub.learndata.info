@@ -233,7 +233,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -549,7 +549,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -612,7 +612,7 @@
     "_id": "6408b2dfb38aaf6b93dd7d77",
     "_parentId": "6408b2dfb38aaf6b93dd7d5b",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -635,55 +635,6 @@
     "instruction": ""
   },
   {
-    "_component": "graphic",
-    "_classes": "color-one mobile-hide",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Choosing between using a data sharing agreement and a data license",
-    "displayTitle": "",
-    "body": "",
-    "_id": "6408b2dfb38aaf6b93dd7d78",
-    "_parentId": "6408b2dfb38aaf6b93dd7d5b",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/ed9a69771a25e476a3c2c8e96fcdb3e3138f0026.png",
-      "small": "course/en/assets/ed9a69771a25e476a3c2c8e96fcdb3e3138f0026.png",
-      "attribution": "<a href=\"odi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[CC0]</span>",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
     "_component": "matching",
     "_classes": "",
     "_isOptional": false,
@@ -693,7 +644,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Q1-3",
+    "title": "Appropriate scenario questions",
     "displayTitle": "",
     "body": "",
     "_id": "6408b2dfb38aaf6b93dd7d79",
@@ -1055,7 +1006,7 @@
     "_id": "6408b2dfb38aaf6b93dd7d7d",
     "_parentId": "6408b2dfb38aaf6b93dd7d5c",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -1079,7 +1030,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1093,7 +1044,7 @@
     "_id": "6408b2dfb38aaf6b93dd7d7e",
     "_parentId": "6408b2dfb38aaf6b93dd7d5c",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -1166,7 +1117,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1411,7 +1362,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1898,7 +1849,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -2044,7 +1995,7 @@
     "_disableAccessibilityState": false,
     "title": "COVID-19 and data sharing",
     "displayTitle": "COVID-19 and data sharing",
-    "body": "<p dir=\"ltr\">The urgent need for data was especially highlighted during the COVID-19 pandemic. Evidence to understand and tackle the virus made the pandemic a catalyst for data sharing, as public and private institutions came together around a common cause and worked at pace to contribute to the global understanding of the virus.&nbsp;</p><p dir=\"ltr\">Leaders in the area included Italy, who have been publishing open data daily on <a href=\"https://github.com/pcm-dpc/COVID-19\" target=\"_blank\">GitHub</a> since the beginning of March, with regional breakdowns, and numbers of people self-isolating, hospitalised and in intensive care. All openly licenced!</p><p dir=\"ltr\">However, many faced many challenges around data access. Common issues raised included: missing and poor-quality data; data access and need for data-sharing agreements; uncertainty about legal compliance and perceptions of legal barriers; and differences in methodology within multidisciplinary teams.</p><p dir=\"ltr\">Focussing on just the data quality issues is therefore not sufficient to enable access to reusable data. The pandemic highlighted the broader issues around data access and the need for clarity on the need for clear data sharing agreements and licenses.</p>",
+    "body": "<p dir=\"ltr\">The urgent need for data was especially highlighted during the COVID-19 pandemic. Evidence to understand and tackle the virus made the pandemic a catalyst for data sharing, as public and private institutions came together around a common cause and worked at pace to contribute to the global understanding of the virus.&nbsp;</p><p dir=\"ltr\">Leaders in the area included Italy, who have been publishing open data daily on <a href=\"https://github.com/pcm-dpc/COVID-19\" target=\"_blank\">GitHub</a> since the beginning of March, with regional breakdowns, and numbers of people self-isolating, hospitalised and in intensive care. All openly licenced!</p><p dir=\"ltr\">However, many faced many challenges around data access. Common issues raised included: missing and poor-quality data; data access and need for data-sharing agreements; uncertainty about legal compliance and perceptions of legal barriers; and differences in methodology within multidisciplinary teams<sup><a href=\"https://royalsociety.org/-/media/policy/Publications/2021/learning-data-lessons-data-access-and-sharing-during-COVID-19.pdf?la=en-GBandhash=DA87DF3B44154E407FDADC6B4269CEED\" target=\"_blank\">1</a></sup>.</p>\n<p dir=\"ltr\">Focussing on just the data quality issues is therefore not sufficient to enable access to reusable data. The pandemic highlighted the broader issues around data access and the need for clarity on the need for clear data sharing agreements and licenses.</p>\n\n<ol>\n  <li><a href=\"https://royalsociety.org/-/media/policy/Publications/2021/learning-data-lessons-data-access-and-sharing-during-COVID-19.pdf?la=en-GBandhash=DA87DF3B44154E407FDADC6B4269CEED\" target=\"_blank\">Learning data lessons: data access and sharing during COVID-19</a></li>\n</ol>",
     "_id": "6408b47fb38aaf6b93dd7dba",
     "_parentId": "6408b474b38aaf6b93dd7db9",
     "_type": "component",

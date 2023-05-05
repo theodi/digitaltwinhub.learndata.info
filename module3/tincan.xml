@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <tincan xmlns="http://projecttincan.com/tincan.xsd">
     <activities>
-        <activity id="https://testing.learndata.info/cp-third-party-sources" type="http://adlnet.gov/expapi/activities/course">
+        <activity id="https://learning.digitaltwinhub.co.uk/module3" type="http://adlnet.gov/expapi/activities/course">
             <name><![CDATA[CP - M3: Working with data from third party sources]]></name>
             <description lang="en-US"><![CDATA[]]></description>
             <launch lang="en-US">index.html</launch>

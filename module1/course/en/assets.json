@@ -119,36 +119,12 @@
     "attribution": "Catapult",
     "tags": []
   },
-  "61f89085887582ee7236cf854676ff0d63d3c25f.jpg": {
-    "title": "water ripple",
-    "description": "time lapse photography of water",
-    "source": "https://unsplash.com/photos/vkx0kgKx9VA",
-    "licence": "CC0",
-    "attribution": "Jordan McDonald",
-    "tags": []
-  },
-  "7bb540ab8304257a5e5bffa566c4f7e577e697fc.jpg": {
-    "title": "brown brick",
-    "description": "brown brick wall",
-    "source": "https://unsplash.com/photos/rhaS97NhnHg",
-    "licence": "CC0",
-    "attribution": "Waldemar",
-    "tags": []
-  },
   "848871b0788afcc83b2002c1bcfaf4f39efe0b1d.webp": {
     "title": "CP catapult logo footer",
     "description": "CP catapult logo footer graphic",
     "source": "https://cp.catapult.org.uk/",
     "licence": "All rights reserved",
     "attribution": "Connected Places Catapult",
-    "tags": []
-  },
-  "0a5fcb285c402b9e6220eb4ccaefdf76471c2e17.png": {
-    "title": "gemini triangle",
-    "description": "The Gemini Principles: Guiding values for the national digital twin and information management framework’",
-    "source": "https://www.cdbb.cam.ac.uk/system/files/documents/TheGeminiPrinciples.pdf",
-    "licence": "All rights reserved",
-    "attribution": "Bolton A, Enzer M",
     "tags": []
   },
   "d7ca0e0fad4eb72a67f415b3276a06a97ee0556d.jpg": {
@@ -181,6 +157,38 @@
     "source": "https://content.invisioncic.com/f305442/set_resources_12/d0e70b4cbb9ab8afb1bc1065a3f8487a_logo.png",
     "licence": "All rights reserved",
     "attribution": "digital twin hub logo",
+    "tags": []
+  },
+  "165261aacf6b6403a6c360edf1a346b344b6948f.jpg": {
+    "title": "space photo world lights",
+    "description": "photo of outer space",
+    "source": "https://unsplash.com/photos/Q1p7bh3SHj8",
+    "licence": "CC-BY",
+    "attribution": "NASA",
+    "tags": []
+  },
+  "87c6c84930ccf1892a8efecae96f17e25add30e2.png": {
+    "title": "gemini triangle",
+    "description": "The Gemini Principles: Guiding values for the national digital twin and information management framework’",
+    "source": "https://www.cdbb.cam.ac.uk/system/",
+    "licence": "All rights reserved",
+    "attribution": "Bolton A, Enzer M",
+    "tags": []
+  },
+  "6bec6cda7d7b681462ad6500848b94091003f670.png": {
+    "title": "CPC - Data goverence triangle ",
+    "description": "Data goverence triangle for Connected Places Catapult",
+    "source": "https://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "950ad32d7850178b44acff3760c7f53ecfaeb863.jpg": {
+    "title": "How is impact created from data.jpg",
+    "description": "data infrastructure ",
+    "source": "https://www.cdbb.cam.ac.uk/files/flourishing-systems_revised_200908.pdf",
+    "licence": "All rights reserved",
+    "attribution": "cdbb",
     "tags": []
   }
 }

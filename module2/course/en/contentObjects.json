@@ -1,7 +1,7 @@
 [
   {
-    "title": "Maximising reuse of data through licensing and sharing",
-    "displayTitle": "Maximising reuse of data through licensing and sharing",
+    "title": "Data sharing to enable connected digital twins ",
+    "displayTitle": "Data sharing to enable connected digital twins ",
     "body": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licences as ways to safely share data and maximise its reuse.</p>",
     "_classes": "",
     "subtitle": "",
@@ -52,6 +52,10 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_boxMenu": {
       "_renderAsGroup": false

@@ -30,7 +30,7 @@
       "_notify": "1"
     }
   },
-  "__v": 9,
+  "__v": 10,
   "_completionCriteria": {
     "_requireContentCompleted": false,
     "_requireAssessmentCompleted": true
@@ -56,11 +56,11 @@
   "_xapi": {
     "_isEnabled": true,
     "_specification": "xAPI",
-    "_activityID": "https://testing.learndata.info/cp-third-party-sources",
+    "_activityID": "https://learning.digitaltwinhub.co.uk/module3",
     "_cookiePrefix": "uk.co.digitaltwinhub",
-    "_endpoint": "",
-    "_user": "",
-    "_password": "",
+    "_endpoint": "https://theodi.learninglocker.net/data/xAPI",
+    "_user": "67ac153010ab52186b4f0a935c53714241c0cd0e",
+    "_password": "dfb5adc9dc5de730e9d74a3ccd858f178d013604",
     "_lang": "en-US",
     "_generateIds": false,
     "_shouldTrackState": true,
@@ -90,6 +90,6 @@
     "_queryURL": ""
   },
   "_homeButton": {
-    "_isEnabled": false
+    "_isEnabled": true
   }
 }

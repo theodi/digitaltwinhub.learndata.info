@@ -81,7 +81,7 @@
         "contactEMail": "",
         "contactLinkText": "",
         "aboutCredit": "",
-        "SL_text": "",
+        "SL_text": "<p><a href=\"https://www.theodi.org/\" style=\"text-decoration:none; color:inherit;\" target=\"_blank\">© Open Data Institute</a></p>",
         "SL_facebook": "",
         "SL_flickr": "",
         "SL_github": "",
@@ -144,9 +144,6 @@
       },
       "_chartjs": {
         "ariaRegion": "This is a charting component."
-      },
-      "_moralMachineResults": {
-        "ariaRegion": "Assessment results."
       },
       "_choose": {
         "ariaRegion": "Choose. Select options and then submit.",
@@ -266,6 +263,9 @@
         "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
         "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
         "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_moralMachineResults": {
+        "ariaRegion": "Assessment results."
       }
     },
     "_menu": {
@@ -383,7 +383,7 @@
     "_footer": {
       "footer": "#333333",
       "footer-inverted": "#ffffff",
-      "footer-logo": "course/en/assets/f9855a4bc775449c566dabcd78c05fde759d0689.png"
+      "footer-logo": "course/assets/b46255d149de4ce358f32a2812df4c9b0658f1a8.png"
     },
     "_notify": {
       "notify": "#333333",
@@ -432,7 +432,7 @@
     "_items": [
       {
         "title": "Privacy policy",
-        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
+        "link": "https://cp.catapult.org.uk/privacy-policy/"
       }
     ]
   },
@@ -468,7 +468,7 @@
     "_items": [
       {
         "title": "License",
-        "description": "<p>The Data Landscape and Connected Digital Twins&nbsp;by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>&nbsp;is licensed under a&nbsp;<a href=\"http://creativecommons.org/licenses/by/4.0/\" rel=\"license\">Creative Commons Attribution 4.0 International License</a>.</p>",
+        "description": "<p>The data landscape and connected digital twins&nbsp;by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>&nbsp;is licensed under a&nbsp;<a href=\"http://creativecommons.org/licenses/by/4.0/\" rel=\"license\">Creative Commons Attribution 4.0 International License</a>.</p>",
         "_graphic": {
           "alt": "",
           "src": "course/en/assets/d4bc14657d8cefb2cf8ce4d8fdaecef6388d2f9a.png"
@@ -522,11 +522,6 @@
       "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
     }
   },
-  "_assessment": {
-    "_isPercentageBased": true,
-    "_scoreToPass": 60,
-    "_correctToPass": 60
-  },
   "_homeButton": {
     "_isEnabled": true,
     "_hideHomeButton": false,
@@ -539,6 +534,11 @@
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60,
+    "_correctToPass": 60
   },
   "_boxMenu": {
     "_backgroundImage": {

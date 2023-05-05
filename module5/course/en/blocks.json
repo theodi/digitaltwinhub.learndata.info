@@ -1513,8 +1513,8 @@
     }
   },
   {
-    "title": "Ethical dilemma of good",
-    "displayTitle": "Ethical dilemma of good",
+    "title": "Ethical dilemma of \"good\"",
+    "displayTitle": "Ethical dilemma of \"good\"",
     "body": "",
     "_classes": "",
     "_trackingId": 20,
@@ -1532,6 +1532,19 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_trickle": {
       "_isEnabled": false,
@@ -1562,19 +1575,6 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {

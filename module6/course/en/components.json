@@ -373,11 +373,22 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Select your answers from the drop downs. When done click 'Submit'",
+    "ariaQuestion": "",
     "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
@@ -385,8 +396,11 @@
     "_shouldResetAllAnswers": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
+    "_isRandomQuestionOrder": false,
     "_questionWeight": 1,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
     "placeholder": "Please select an option",
     "_items": [
       {
@@ -407,7 +421,7 @@
         ]
       },
       {
-        "text": "Your facebook profile picture",
+        "text": "Your Facebook profile picture",
         "_options": [
           {
             "text": "You do",
@@ -790,11 +804,22 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Select three answers then click 'submit'",
+    "ariaQuestion": "",
     "_items": [
       {
         "text": "Avoid the problem by not collecting personal data in the first place",
@@ -829,6 +854,7 @@
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 3,
     "_feedback": {
@@ -1700,7 +1726,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Synthetic data",
-    "displayTitle": "Synthetic data",
+    "displayTitle": "",
     "body": "<p>A synthetic dataset contains many of the statistical patterns of an original dataset, but does not refer to identifiable individuals (for example it contains fictional people), thereby reducing the risk of re-identification. Intuitively, it is easy to see how this could enable the sharing or open release of data similar to very sensitive data, but with less risk of data protection infringement attached to it.</p>",
     "_id": "6419cdc4b38aaf6b93dd81f3",
     "_parentId": "6419cda8b38aaf6b93dd81f2",

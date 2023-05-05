@@ -742,7 +742,7 @@
     "_disableAccessibilityState": false,
     "title": "Topics",
     "displayTitle": "",
-    "body": "<p>This module introduces:</p><ul><li>the value of reusing data from third-party sources</li><li>the importance of rights and permissions in data</li><li>a spectrum of data rights</li><li>identifying open, shared and closed data</li><li>obtaining rights to reuse third party data</li><li>what to do when things are unclear</li><li>considerations when working with data from multiple third parties</li><li>establishing the suitability of data prior to access and reuse</li><li>a decision-making flowchart for reusing data from third-party sources.</li></ul>",
+    "body": "<p>This module introduces:</p><ul><li>the value of reusing data from third-party sources</li><li>the importance of rights and permissions in data</li><li>a spectrum of data rights</li><li>identifying open, shared and closed data</li><li>obtaining rights to reuse third party data</li><li>Case study: CReDo<strong> </strong></li><li>what to do when things are unclear</li><li>considerations when working with data from multiple third parties</li><li>establishing the suitability of data prior to access and reuse</li><li>a decision-making flowchart for reusing data from third-party sources.</li></ul>",
     "_id": "6408b85eb38aaf6b93dd7de3",
     "_parentId": "6408b85eb38aaf6b93dd7dcc",
     "_type": "component",
@@ -751,6 +751,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": false,

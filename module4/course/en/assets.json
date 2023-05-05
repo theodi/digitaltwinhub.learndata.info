@@ -93,20 +93,20 @@
     "attribution": "Catapult",
     "tags": []
   },
-  "29326b2adf551703562914ae066b3105ebbf7e8b.png": {
-    "title": "Semantic web layer cake",
-    "description": "Semantic web layer cake",
-    "source": "https://en.wikipedia.org/wiki/Semantic_Web_Stack#/media/File:Semantic_web_stack.svg",
-    "licence": "CC0",
-    "attribution": "Marobi1",
-    "tags": []
-  },
   "2cad1d81320559d315e4228c911e311714ac7278.png": {
     "title": "schema validation",
     "description": "schema validation data interoperability course",
     "source": "https://www.theodi.org/",
     "licence": "CC0",
     "attribution": "The Open Data Institute ",
+    "tags": []
+  },
+  "1f8e957aebf4d05a83c747afa2cd4d1ff21a60f0.jpg": {
+    "title": "electricity-q6n8nIrDQHE.jpg",
+    "description": "black transmission towers under green sky",
+    "source": "https://unsplash.com/photos/q6n8nIrDQHE",
+    "licence": "CC0",
+    "attribution": "Fré Sonneveld",
     "tags": []
   },
   "66d66970f6aaf5cd735c1a05f9a1bd4c9f0f13c7.jpg": {
@@ -173,6 +173,14 @@
     "attribution": "Sincerely Media",
     "tags": []
   },
+  "6ac9e3de2158c6ca7fd47e581ef3d8151d77cc95.jpg": {
+    "title": "project stickies",
+    "description": "person working on blue and white paper on board",
+    "source": "https://unsplash.com/photos/qWwpHwip31M",
+    "licence": "CC0",
+    "attribution": "Alvaro Reyes",
+    "tags": []
+  },
   "848871b0788afcc83b2002c1bcfaf4f39efe0b1d.webp": {
     "title": "CP catapult logo footer",
     "description": "CP catapult logo footer graphic",
@@ -203,6 +211,14 @@
     "source": "https://content.invisioncic.com/f305442/set_resources_12/d0e70b4cbb9ab8afb1bc1065a3f8487a_logo.png",
     "licence": "All rights reserved",
     "attribution": "digital twin hub logo",
+    "tags": []
+  },
+  "25107f765662acae2052ede32e9d3773f6d34ec0.png": {
+    "title": "Semantic web layer cake",
+    "description": "Semantic web layer cake",
+    "source": "https://en.wikipedia.org/wiki/Semanti",
+    "licence": "CC0",
+    "attribution": "Marobi1",
     "tags": []
   }
 }

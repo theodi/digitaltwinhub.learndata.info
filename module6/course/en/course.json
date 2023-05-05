@@ -434,7 +434,7 @@
     "_items": [
       {
         "title": "Privacy policy",
-        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
+        "link": "https://cp.catapult.org.uk/privacy-policy/"
       }
     ]
   },
@@ -470,7 +470,7 @@
     "_items": [
       {
         "title": "License",
-        "description": "<p>Protecting the rights of individuals while maximising the utility of data&nbsp;by the&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> is licensed under a <a href=\"http://creativecommons.org/licenses/by/4.0/\" rel=\"license\">Creative Commons Attribution 4.0 International License</a>.</p>",
+        "description": "<p>Ethics and personal data&nbsp;by the&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> is licensed under a <a href=\"http://creativecommons.org/licenses/by/4.0/\" rel=\"license\">Creative Commons Attribution 4.0 International License</a>.</p>",
         "_graphic": {
           "alt": "",
           "src": "course/en/assets/19bb513efae607af695cb3d10bb16e2a5b51c2ab.png"

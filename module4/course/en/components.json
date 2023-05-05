@@ -11,11 +11,11 @@
     "_disableAccessibilityState": false,
     "title": "Why interoperability is important?",
     "displayTitle": "Why interoperability is important?",
-    "body": "<p>Data interoperability is important because it enables different systems, applications, and devices to exchange data with each other seamlessly, accurately, and efficiently. Interoperability allows data to be easily accessed, shared, and reused by different entities, such as organizations, individuals, digital twins and other machines.</p>",
+    "body": "<p>Data interoperability is important because it enables different systems, applications, and devices to exchange data with each other seamlessly, accurately, and efficiently. Interoperability allows data to be easily accessed, shared, and reused by different entities, such as organizations, individuals, digital twins and other machines.</p><p>Overall, data interoperability is critical for unlocking the full potential of data, enabling it to flow easily between stakeholders in the connected digital twins ecosystem.</p>",
     "_id": "6409f39cb38aaf6b93dd7fbb",
     "_parentId": "6409f39ab38aaf6b93dd7faa",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -53,7 +53,7 @@
     "_id": "6409f39cb38aaf6b93dd7fbc",
     "_parentId": "6409f39ab38aaf6b93dd7faa",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -96,7 +96,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "graphic for boost",
+    "title": "graphic for in practice",
     "displayTitle": "",
     "body": "",
     "_id": "6409f39cb38aaf6b93dd7fbe",
@@ -126,9 +126,9 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/11b214341d971a3ec2570034738919a14300c3b2.jpg",
-      "small": "course/en/assets/11b214341d971a3ec2570034738919a14300c3b2.jpg",
-      "attribution": "<a href=\"https://unsplash.com/photos/UXbv-EOCAYc\" target=\"_blank\">Haithem Ferdi</a> <span class='assetLicence'>[CC0]</span>",
+      "large": "course/en/assets/1f8e957aebf4d05a83c747afa2cd4d1ff21a60f0.jpg",
+      "small": "course/en/assets/1f8e957aebf4d05a83c747afa2cd4d1ff21a60f0.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/q6n8nIrDQHE\" target=\"_blank\">Fré Sonneveld</a> <span class='assetLicence'>[CC0]</span>",
       "_url": "",
       "_target": null
     },
@@ -195,7 +195,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Licensing interoperability matrix",
-    "displayTitle": "Licensing interoperability matrix",
+    "displayTitle": "",
     "body": "<p>Licensing interoperability matrix</p><p>The image here shows the licence interoperability matrix for different licencing terms. While this shows the creative-commons suite of licences, the terms tend to recur in bespoke licences and other public licences.</p><p>In order the licences are:</p><p>1&amp;2 Public domain (CC0 and Unlicensed)</p><ol><li>Attribution only (cite the copyright holder)</li><li>Attribution share-alike (cite and share under same, similar terms)</li><li>Attribution non-commercial (cite and no commercial use)</li><li>Attribution no-derivatives (cite but no new works permitted)</li><li>Attribution, non-commercial, share-alike</li><li>Attribution, non-commercial, no-derivatives</li></ol>",
     "_id": "6409f39db38aaf6b93dd7fc9",
     "_parentId": "6409f39bb38aaf6b93dd7fb1",
@@ -637,9 +637,9 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/29326b2adf551703562914ae066b3105ebbf7e8b.png",
-      "small": "course/en/assets/29326b2adf551703562914ae066b3105ebbf7e8b.png",
-      "attribution": "<a href=\"https://en.wikipedia.org/wiki/Semantic_Web_Stack#/media/File:Semantic_web_stack.svg\" target=\"_blank\">Marobi1</a> <span class='assetLicence'>[CC0]</span>",
+      "large": "course/en/assets/25107f765662acae2052ede32e9d3773f6d34ec0.png",
+      "small": "course/en/assets/25107f765662acae2052ede32e9d3773f6d34ec0.png",
+      "attribution": "<a href=\"https://en.wikipedia.org/wiki/Semanti\" target=\"_blank\">Marobi1</a> <span class='assetLicence'>[CC0]</span>",
       "_url": "",
       "_target": null
     },
@@ -781,99 +781,6 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "accordion",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Data interoperability encourages and boosts:",
-    "displayTitle": "Data interoperability encourages and boosts:",
-    "body": "<p>Overall, data interoperability is critical for unlocking the full potential of data, enabling it to flow easily between stakeholders in the connected digital twins ecosystem.</p><p>&nbsp;</p>",
-    "_id": "6409f964b38aaf6b93dd7fdf",
-    "_parentId": "6409f39ab38aaf6b93dd7fab",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "Click the titles to find out why",
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Collaboration",
-        "body": "<p>Interoperability enables different systems to work together, promoting collaboration among organizations, teams, and individuals. This can lead to improved efficiency, productivity, and innovation. This is particularly relevant in the digital twin’s landscape.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Transparency",
-        "body": "<p>Interoperability promotes transparency by allowing different systems to access and use the same data, which can help to ensure that all stakeholders have fair and equitable access to high quality, up-to-date data. This also helps boost trust in the data ecosystem and in each other’s data.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Accuracy",
-        "body": "<p>Technical interoperability help ensure data is of high integrity at point of transfer. While semantic interoperability ensures that everyone has a shared understanding of the data, improving the perceive quality and trust in the data further.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Efficiency",
-        "body": "<p>Interoperability eliminates the need for manual data entry and data transfer between different systems, reducing the time and cost associated with data management</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Data-informed decision-making",
-        "body": "<p>Interoperability enables data to be easily shared and analyzed, providing organizations with insights that can inform decision-making and help to drive business outcomes.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true,
-    "_shouldExpandFirstItem": false
   },
   {
     "_component": "text",
@@ -1160,8 +1067,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Open means interoperability",
-    "displayTitle": "Open means interoperability",
+    "title": "Open data is the key to technical interoperability",
+    "displayTitle": "Open data is the key to technical interoperability",
     "body": "<p>Once again, when it comes to technical interoperability, open is the key; the communication mechanisms must be open, the formats must be open. Much like the licence matrix, this means you are free to integrate services together without further legal complications related to the communication mechanisms of formats.</p><p>A good example of this is the MATTER protocol for home automation and smart devices. Where previously there were three main ecosystems backed by Google, Amazon and Apple. The MATTER protocol, while proprietary, is a royalty-free specification that is bringing the benefits of a shared communication protocol and API to the smart home.</p>",
     "_id": "640a039db38aaf6b93dd7fed",
     "_parentId": "640a039cb38aaf6b93dd7fec",
@@ -1198,7 +1105,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "graphic for Open means interoperability",
+    "title": "graphic for Open data is the key to technical interoperability",
     "displayTitle": "",
     "body": "",
     "_id": "640a039db38aaf6b93dd7fee",
@@ -1847,9 +1754,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That's right!</strong><br />Although multiple aspects of the dataset were presented as potential discrepancies, only one of them truly violates the schema. The \"Years active\" range aligns with the schema's specifications, and no attributes are missing from the dataset. The primary issue emerges from the \"Financial health\" attribute, as it contains values that deviate from the schema's predefined structure. Consequently, the correct answer is \"Mismatch in values permitted for 'Financial health',\" illustrating the importance of maintaining consistency in datasets.</p>",
+      "correct": "<p><strong>That's right!</strong></p><p dir=\"ltr\">There are a number of free text fields, so these can't be a problem as we have no way to validate such fields automatically. Spellings are often a problem in these.</p><p dir=\"ltr\">We also have categorical (status), continuous (years active) and ordinal data (financial health). These can all be verified against the rules set out in the schema.&nbsp;</p><p dir=\"ltr\">The error here is that financial health must be one of \"Very poor\", \"Poor\", \"OK\", \"Good\" and \"Excellent\", whereas in the data the value here is \"Very good\". The question is could the schema be wrong?</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong><br />Although multiple aspects of the dataset were presented as potential discrepancies, only one of them truly violates the schema. The \"Years active\" range aligns with the schema's specifications, and no attributes are missing from the dataset. The primary issue emerges from the \"Financial health\" attribute, as it contains values that deviate from the schema's predefined structure. Consequently, the correct answer is \"Mismatch in values permitted for 'Financial health',\" illustrating the importance of maintaining consistency in datasets.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">There are a number of free text fields, so these can't be a problem as we have no way to validate such fields automatically. Spellings are often a problem in these.</p><p dir=\"ltr\">We also have categorical (status), continuous (years active) and ordinal data (financial health). These can all be verified against the rules set out in the schema.&nbsp;</p><p dir=\"ltr\">The error here is that financial health must be one of \"Very poor\", \"Poor\", \"OK\", \"Good\" and \"Excellent\", whereas in the data the value here is \"Very good\". The question is could the schema be wrong?</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -2101,9 +2008,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Open means interoperability",
-    "displayTitle": "Open means interoperability",
-    "body": "<p>&nbsp;</p><p>Only the first four licences here are deemed as open, as they guarantee interoperability with all other licences in the set. Any other licences apply restrictions that mean legal interoperability is not assured.</p>",
+    "title": "Open licences gaurentee interoperability",
+    "displayTitle": "Open licences gaurentee interoperability",
+    "body": "<p>Only the first four licences here are deemed as open, as they guarantee interoperability with all other licences in the set. Any other licences apply restrictions that mean legal interoperability is not assured.</p>",
     "_id": "640a1cffb38aaf6b93dd8014",
     "_parentId": "640a1cffb38aaf6b93dd8013",
     "_type": "component",
@@ -2139,8 +2046,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "graphic for open means nteroperability",
-    "displayTitle": "",
+    "title": "graphic for Open licences guarantee interoperability",
+    "displayTitle": "graphic for Open licences guarantee interoperability",
     "body": "",
     "_id": "640a1d00b38aaf6b93dd8015",
     "_parentId": "640a1cffb38aaf6b93dd8013",
@@ -2246,5 +2153,328 @@
       "transcriptLink": ""
     },
     "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic for boost",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6451113eb38aaf6b93dd8c61",
+    "_parentId": "6451113eb38aaf6b93dd8c60",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/11b214341d971a3ec2570034738919a14300c3b2.jpg",
+      "small": "course/en/assets/11b214341d971a3ec2570034738919a14300c3b2.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/UXbv-EOCAYc\" target=\"_blank\">Haithem Ferdi</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data interoperability encourages and boosts:",
+    "displayTitle": "Data interoperability encourages and boosts:",
+    "body": "",
+    "_id": "6451113fb38aaf6b93dd8c64",
+    "_parentId": "6451113eb38aaf6b93dd8c60",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the titles to find out more",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Collaboration",
+        "body": "<p>Interoperability enables different systems to work together, promoting collaboration among organizations, teams, and individuals. This can lead to improved efficiency, productivity, and innovation. This is particularly relevant in the digital twin’s landscape.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Transparency",
+        "body": "<p>Interoperability promotes transparency by allowing different systems to access and use the same data, which can help to ensure that all stakeholders have fair and equitable access to high quality, up-to-date data. This also helps boost trust in the data ecosystem and in each other’s data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Accuracy",
+        "body": "<p>Technical interoperability help ensure data is of high integrity at point of transfer. While semantic interoperability ensures that everyone has a shared understanding of the data, improving the perceive quality and trust in the data further.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Efficiency",
+        "body": "<p>Interoperability eliminates the need for manual data entry and data transfer between different systems, reducing the time and cost associated with data management</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data-informed decision-making",
+        "body": "<p>Interoperability enables data to be easily shared and analyzed, providing organizations with insights that can inform decision-making and help to drive business outcomes.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data interoperability in practice",
+    "displayTitle": "Data interoperability in practice",
+    "body": "<p>Regardless of the sector or challenge, data interoperability is key to enable people to find, book or otherwise make use of services.</p>",
+    "_id": "64511201b38aaf6b93dd8c66",
+    "_parentId": "6409f39ab38aaf6b93dd7fab",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the headings to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "In the travel sector",
+        "body": "<p><strong>Amadeus is the dominant player, providing technology solutions into the travel sector that have interoperability at their heart. This enables everyone in the travel industry to sell, manage and otherwise access key travel information, including from other providers. This helps ensure that the travel industry operates efficiently and effectively. </strong></p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "OpenActive",
+        "body": "<p>A community-led initiative acts a place for organisations in sport and physical activity sector to convene on open data and interoperability around physical activity data. The aim is to make it as easy to find and book a tennis court ass it is to book a hotel room. Unlike Amadeus, the OpenActive standards are open for any supplier of technology into the sport and physical activity sector to implement in a distributed fashion. Enabling anyone to take advantage of the standards, no matter how big or small.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "OpenBanking",
+        "body": "<p dir=\"ltr\">In the banking sector, the open banking standard supports customers with their right under data protection regulations to data portability. Open Banking is based on the idea that customers should have greater control over their financial data and be able to easily share it with, or move it entirely to, other financial services providers. Open Banking can also promote competition and innovation in the financial services industry, drive down costs and increase transparency, making financial services more accessible to a wider range of customers.&nbsp;</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Devil in detail graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "64511439b38aaf6b93dd8c6c",
+    "_parentId": "64511439b38aaf6b93dd8c6a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6ac9e3de2158c6ca7fd47e581ef3d8151d77cc95.jpg",
+      "small": "course/en/assets/6ac9e3de2158c6ca7fd47e581ef3d8151d77cc95.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/qWwpHwip31M\" target=\"_blank\">Alvaro Reyes</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The devil is in the detail",
+    "displayTitle": "The devil is in the detail",
+    "body": "<p dir=\"ltr\">When it comes to legal interoperability, having to go through many bespoke data sharing agreements and licences is likely to cause a lot of headaches and the time of lawyers to evaluate legal risks of combining or otherwise remixing data.&nbsp;</p><p dir=\"ltr\">But there are some general guidelines that can help.&nbsp;</p>",
+    "_id": "645116aeb38aaf6b93dd8c70",
+    "_parentId": "64511439b38aaf6b93dd8c6a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 70,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "No derivatives is an instant interoperability killer",
+        "body": "<p>If the licence or data sharing agreement states that the original data cannot be used to derive or otherwise modified to create an original work, then it is not interoperable with anything. It cannot be combined with other data, or otherwise used in a way that would constitute a derivative work. Note: This does not prevent the modification of the work, for example to fix and error, providing that no original IP is created.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Non-commercial is the next limiting term",
+        "body": "<p>Any non-commercial terms in licences or data sharing agreements, are in direct conflict with any licences that require data to remain available for others for wider benefit, including commercial use. So non-commercially licenced data cannot be combined with data made available under a share-a-like licence. Open Corporates, the largest open database of companies in the world, <a href=\"https://opencorporates.com/legal/licence#api_use\">makes data available for free under a share-a-like licence</a>. However, to combine this data with data available licenced under a non-commercial licence would require the payment of a fee to opencorporates to remove the share-a-like requirement. So a non-commercial agreement could actually cost you more!</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
   }
 ]

@@ -113,7 +113,7 @@
     "_id": "6408829bb38aaf6b93dd7d05",
     "_parentId": "6408829bb38aaf6b93dd7cf8",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -157,7 +157,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -304,11 +304,22 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Select two answers, then click 'submit'",
+    "ariaQuestion": "",
     "_items": [
       {
         "text": "A lack of willingness to share data with others",
@@ -331,13 +342,14 @@
         "feedback": "<p>&nbsp;</p><p>&nbsp;</p>"
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 2,
     "_feedback": {
@@ -389,7 +401,7 @@
     "_disableAccessibilityState": false,
     "title": "Where data sits in our landscape",
     "displayTitle": "",
-    "body": "<p dir=\"ltr\">Some of the most challenging problems and exciting opportunities lie at the intersections between human behaviour and technological innovation. Digital twins unleash value by enabling better decisions — in use, operations, maintenance, resilience, planning, investment and more — across the built and natural environments. However, in a world where the collection of data is accelerating, the value of the information it can provide is limited by the lack of a strategy for interconnections, resilience or long-term outcomes. We need a sociotechnical change programme to ensure alignment under a principled, people led approach.</p><p dir=\"ltr\">The key is to collect high-quality data and make it available for everyone to use. Much that we take for granted today is only possible because of agreed and open standards and mechanisms that enable global interoperability of data.&nbsp; Take standards like barcodes, energy delivery and even passports. These are agreed standards with international agreement on how complex data ecosystems operate.&nbsp;</p>",
+    "body": "<p dir=\"ltr\">Some of the most challenging problems and exciting opportunities lie at the intersections between human behaviour and technological innovation. Digital twins unleash value by enabling better decisions — in use, operations, maintenance, resilience, planning, investment and more — across the built and natural environments. However, in a world where the collection of data is accelerating, the value of the information it can provide is limited by the lack of a strategy for interconnections, resilience or long-term outcomes<sup>1</sup>. We need a sociotechnical change programme to ensure alignment under a principled, people led approach.</p><p dir=\"ltr\">The key is to collect high-quality data and make it available for everyone to use. Much that we take for granted today is only possible because of agreed and open standards and mechanisms that enable global interoperability of data.&nbsp; Take standards like barcodes, energy delivery and even passports. These are agreed standards with international agreement on how complex data ecosystems operate.&nbsp;</p><p dir=\"ltr\"><sup>1 </sup><a href=\"https://www.gov.uk/government/ publications/transforming-infrastructure-performance-roadmap-to-2030/transforminginfrastructure-performance-roadmap-to-2030\" target=\"_blank\">Transforming infrastructure performance: Roadmap to 2030</a></p>",
     "_id": "6408829bb38aaf6b93dd7d0a",
     "_parentId": "6408829bb38aaf6b93dd7cf7",
     "_type": "component",
@@ -514,7 +526,7 @@
     "_disableAccessibilityState": false,
     "title": "Where next?",
     "displayTitle": "Where next?",
-    "body": "<p>To help everyone discover more, we have developed several modules to help overcome barriers to sharing data in the digital twins landscape and enable the construction of a shared data infrastructure.</p><p>In the upcoming modules, we will cover a range of topics to help you overcome barriers in the digital twins landscape and build a shared data infrastructure. We will focus on:</p><ol><li><strong>Maximising reuse of data through licensing and sharing:&nbsp;</strong>Understand personal data, related regulations, and techniques to ensure privacy and data usefulness.</li><li><strong>Working with data from third-party sources:</strong> Explore data ownership, rights, and permissions to responsibly integrate, analyse, and reuse data.</li><li><strong>Ensuring data interoperability: </strong>Discover legal, technical, and semantic aspects of data interoperability for connected digital twins.</li><li><strong>Applying data ethics: </strong>Learn how to use tools and frameworks to embed ethical data practices and make recommendations for ethical data handling.</li><li><strong>Ethics &amp; Personal Data:</strong> In this module, we clarify personal data, differentiate it from sensitive commercial data, and explore data protection regulations. Learn techniques to protect individuals' rights while optimizing data utility.</li></ol>",
+    "body": "<p dir=\"ltr\">To help everyone discover more we have developed several modules to help overcome barriers to sharing data in the digital twins landscape and enable the construction of a shared data infrastructure.</p><p dir=\"ltr\"><strong>These modules focus on:</strong></p><ol start=\"2\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Data sharing across organisational and sectoral boundaries:&nbsp;</strong><br />Value can be created from data when it is collected, accessed, used and shared across organisational and sectoral boundaries.&nbsp;<br />This module introduces the key role of data sharing agreements and data licences as ways to safely share data and maximise its reuse.<br />&nbsp;</p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Working with data from third party sources:&nbsp;</strong><br />Data increases in value the more it is connected. This module looks at the spectrum of data and how permission is granted and/or obtained to integrate, analyse and otherwise reuse data.<br />&nbsp;</p></li><li dir=\"ltr\"><p><strong>How can connected digital twins be interoperable? </strong><br />In order to build a shared data infrastructure, it is critical that data is as interoperable as possible. In this module we explore legal, technical, and semantic aspects of data interoperability.<br />&nbsp;</p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Applying data ethics</strong><br />This module explores the application of data ethics that mitigate negative risks and serve to promote positive outcomes for people and society.&nbsp;<br />&nbsp;</p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Ethics and personal data</strong><br />Fears over collecting, using and sharing personal data often results in data not getting to those who need it. The aim of this module is to increase understanding of personal data and techniques that can be applied to ensure the rights of individuals are protected, while maximising the utility of data</p></li></ol>",
     "_id": "6408829bb38aaf6b93dd7d0d",
     "_parentId": "6408829bb38aaf6b93dd7d01",
     "_type": "component",
@@ -555,44 +567,6 @@
     "body": "<p>One of the biggest challenges to realising the full value of data is the lack of cultural willingness to share data. The ODI calls this scenario ‘the oil field’.</p><p>The oil field is a scenario where: owning data; having as much data as possible in one place; trying to know everything about everyone and then maintaining the inevitable degradation of these datasets – is killing the return on investment (and the fun!) when working with&nbsp;data, and it’s not the only way!</p><p>Such approaches lead to a closed (or walled garden) environment, which can greatly reduce innovation capabilities.</p><p>To overcome this barrier, organisations should support an open culture as much as possible. During challenging times it is especially important to realise the benefits of working with others, sharing insights and innovating together.</p><p>Building a data catalog that we can all use helps ensure variety is our data superpower. It also helps to prevent hoarding and the inevitable associated degradation of data.</p>",
     "_id": "6408829bb38aaf6b93dd7d0e",
     "_parentId": "6408829bb38aaf6b93dd7cfb",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Data is infrastructure",
-    "displayTitle": "Data is infrastructure",
-    "body": "<p dir=\"ltr\">Building data infrastructure is not as simple as putting data on a server or in a spreadsheet. You need to build a strong foundation that sets out priorities.&nbsp;</p><p dir=\"ltr\">At level one, this involves having a clear strategy, aligned to the legal and ethical frameworks that ensure fair and equitable development of that infrastructure. You also ensure you are investing in the infrastructure and the capability to manage it.&nbsp;</p><p dir=\"ltr\">On&nbsp;top of a strong foundation you build the data infrastructure itself. A data infrastructure consists of data assets, supported by people, policies and process and technology.&nbsp;</p><p dir=\"ltr\">From this infrastructure you can build value. But to get there requires the building of trust. Changes to infrastructure (even physical) requires large change management programmes to build trust in them and the value they provide as a result. It is critical to engage openly for people to understand the value which often requires large amounts of investment.</p>",
-    "_id": "6408829bb38aaf6b93dd7d0f",
-    "_parentId": "6408829bb38aaf6b93dd7cfe",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -781,9 +755,9 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/61f89085887582ee7236cf854676ff0d63d3c25f.jpg",
-      "small": "course/en/assets/61f89085887582ee7236cf854676ff0d63d3c25f.jpg",
-      "attribution": "<a href=\"https://unsplash.com/photos/vkx0kgKx9VA\" target=\"_blank\">Jordan McDonald</a> <span class='assetLicence'>[CC0]</span>",
+      "large": "course/en/assets/912f6e2cb1c7fdce23e215f0cacb710ea0906121.png",
+      "small": "course/en/assets/912f6e2cb1c7fdce23e215f0cacb710ea0906121.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -906,9 +880,9 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/055df7c32308138390d320f10f58c4f739631dd2.png",
-      "small": "course/en/assets/055df7c32308138390d320f10f58c4f739631dd2.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "large": "course/en/assets/165261aacf6b6403a6c360edf1a346b344b6948f.jpg",
+      "small": "course/en/assets/165261aacf6b6403a6c360edf1a346b344b6948f.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/Q1p7bh3SHj8\" target=\"_blank\">NASA</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": "_blank"
     },
@@ -955,9 +929,9 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/0a5fcb285c402b9e6220eb4ccaefdf76471c2e17.png",
-      "small": "course/en/assets/0a5fcb285c402b9e6220eb4ccaefdf76471c2e17.png",
-      "attribution": "<a href=\"https://www.cdbb.cam.ac.uk/system/files/documents/TheGeminiPrinciples.pdf\" target=\"_blank\">Bolton A, Enzer M</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "large": "course/en/assets/87c6c84930ccf1892a8efecae96f17e25add30e2.png",
+      "small": "course/en/assets/87c6c84930ccf1892a8efecae96f17e25add30e2.png",
+      "attribution": "<a href=\"https://www.cdbb.cam.ac.uk/system/\" target=\"_blank\">Bolton A, Enzer M</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
       "_target": null
     },
@@ -1004,8 +978,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/912f6e2cb1c7fdce23e215f0cacb710ea0906121.png",
-      "small": "course/en/assets/912f6e2cb1c7fdce23e215f0cacb710ea0906121.png",
+      "large": "course/en/assets/055df7c32308138390d320f10f58c4f739631dd2.png",
+      "small": "course/en/assets/055df7c32308138390d320f10f58c4f739631dd2.png",
       "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
@@ -1024,12 +998,12 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Data is infrastructure ",
-    "displayTitle": "",
-    "body": "",
+    "displayTitle": "Data is infrastructure",
+    "body": "<p dir=\"ltr\">Building data infrastructure is not as simple as putting data on a server or in a spreadsheet. You need to build a strong foundation that sets out priorities.&nbsp;</p><p dir=\"ltr\">At level one, this involves having a clear strategy, aligned to the legal and ethical frameworks that ensure fair and equitable development of that infrastructure. You also ensure you are investing in the infrastructure and the capability to manage it.&nbsp;</p><p dir=\"ltr\">On&nbsp;top of a strong foundation you build the data infrastructure itself. A data infrastructure consists of data assets, supported by people, policies and process and technology.&nbsp;</p><p dir=\"ltr\">From this infrastructure you can build value. But to get there requires the building of trust. Changes to infrastructure (even physical) requires large change management programmes to build trust in them and the value they provide as a result. It is critical to engage openly for people to understand the value which often requires large amounts of investment.</p>",
     "_id": "6408a96ab38aaf6b93dd7d45",
     "_parentId": "6408829bb38aaf6b93dd7cfe",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -1053,9 +1027,9 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/7bb540ab8304257a5e5bffa566c4f7e577e697fc.jpg",
-      "small": "course/en/assets/7bb540ab8304257a5e5bffa566c4f7e577e697fc.jpg",
-      "attribution": "<a href=\"https://unsplash.com/photos/rhaS97NhnHg\" target=\"_blank\">Waldemar</a> <span class='assetLicence'>[CC0]</span>",
+      "large": "course/en/assets/6bec6cda7d7b681462ad6500848b94091003f670.png",
+      "small": "course/en/assets/6bec6cda7d7b681462ad6500848b94091003f670.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
       "_target": null
     },
@@ -1099,5 +1073,54 @@
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How is impact created graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "64510beab38aaf6b93dd8c5b",
+    "_parentId": "6408829bb38aaf6b93dd7cf8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/950ad32d7850178b44acff3760c7f53ecfaeb863.jpg",
+      "small": "course/en/assets/950ad32d7850178b44acff3760c7f53ecfaeb863.jpg",
+      "attribution": "<a href=\"https://www.cdbb.cam.ac.uk/files/flourishing-systems_revised_200908.pdf\" target=\"_blank\">cdbb</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   }
 ]

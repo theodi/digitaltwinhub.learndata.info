@@ -45,8 +45,8 @@
         "_className": ""
       }
     ],
-    "_force": false,
-    "_isMenuDisabled": false
+    "_force": true,
+    "_isMenuDisabled": true
   },
   "_globals": {
     "_accessibility": {
@@ -365,7 +365,7 @@
     "_nav": {
       "nav": "#333333",
       "nav-inverted": "#ffffff",
-      "hide-nav": false,
+      "hide-nav": true,
       "nav-icon": "#ffffff",
       "nav-icon-inverted": "#ffffff",
       "nav-icon-hover": "#ffffff",
@@ -436,7 +436,7 @@
     "_items": [
       {
         "title": "Privacy policy",
-        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
+        "link": "https://cp.catapult.org.uk/privacy-policy/"
       }
     ]
   },

@@ -81,7 +81,7 @@
         "contactEMail": "training@theodi.org",
         "contactLinkText": "Contact",
         "aboutCredit": "",
-        "SL_text": "",
+        "SL_text": "<p><a href=\"https://www.theodi.org/\" style=\"text-decoration:none; color:inherit;\">© Open Data Institute</a></p>\n",
         "SL_facebook": "",
         "SL_flickr": "",
         "SL_github": "",
@@ -151,9 +151,6 @@
       },
       "_chartjs": {
         "ariaRegion": "This is a charting component."
-      },
-      "_moralMachineResults": {
-        "ariaRegion": "Assessment results."
       },
       "_choose": {
         "ariaRegion": "Choose. Select options and then submit.",
@@ -273,6 +270,9 @@
         "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
         "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
         "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_moralMachineResults": {
+        "ariaRegion": "Assessment results."
       }
     },
     "_menu": {
@@ -436,7 +436,12 @@
     }
   },
   "_FooterLink": {
-    "_items": []
+    "_items": [
+      {
+        "title": "Privacy policy",
+        "link": "https://cp.catapult.org.uk/privacy-policy/"
+      }
+    ]
   },
   "_aboutPage": {
     "_items": [
@@ -470,7 +475,7 @@
     "_items": [
       {
         "title": "",
-        "description": "<p>Validation and prioritisation of analysis by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>&nbsp;is licensed under a <a href=\"http://creativecommons.org/licenses/by-sa/4.0/\" rel=\"license\">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>",
+        "description": "<p>Applying data ethics by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>&nbsp;is licensed under a <a href=\"http://creativecommons.org/licenses/by-sa/4.0/\" rel=\"license\">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>",
         "_graphic": {
           "alt": "",
           "src": "course/en/assets/d4bc14657d8cefb2cf8ce4d8fdaecef6388d2f9a.png"
@@ -536,7 +541,7 @@
     "_isShownInNavigationBar": true
   },
   "_resources": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_drawerOrder": 0,
     "title": "Resources",
     "description": "Select here to view resources for this course",
